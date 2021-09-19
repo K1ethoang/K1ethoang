@@ -3,9 +3,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=k1ethoang&label=Profile%20views&color=0e75b6&style=flat" alt="k1ethoang" /> </p>
 
+- 🌱 I’m currently learning **C/C++**
+
 - 📫 How to reach me **kiethoang101@gmail.com**
 
 - ⚡ Fun fact **"The more I learn, the more I realize I don't know anything"   - K1ethoang -**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

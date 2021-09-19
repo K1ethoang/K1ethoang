@@ -36,3 +36,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=k1ethoang&show_icons=true&theme=dracula&locale=en" alt="k1ethoang" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=K1ethoang&theme=dark" alt="K1ethoang" /></p>
+
+[![Kiet Hoang's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?K1ethoang)](https://github.com/K1ethoang/github-readme-stats)
+

@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=k1ethoang&label=Profile%20views&color=0e75b6&style=flat" alt="k1ethoang" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=k1ethoang" alt="k1ethoang" /></a> </p>
-
 - 📫 How to reach me **kiethoang101@gmail.com**
 
 - ⚡ Fun fact **"The more I learn, the more I realize I don't know anything"**
@@ -15,7 +13,7 @@
   
 <a href="https://instagram.com/k1ethoang" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="k1ethoang" height="30" width="40" /></a>
   
-<a href="https://www.youtube.com/c/k1ethoang" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="K1ethoang" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCK5Ey9NoSyo7PYBmM3OvjtQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="K1ethoang" height="30" width="40" /></a>
   
 <a href="https://codeforces.com/profile/K1ethoang" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="K1ethoang" height="30" width="40" /></a>
 </p>

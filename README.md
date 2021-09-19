@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **C/C++**
 
-- 📫 How to reach me <a href="kiethoang101@gmail.com" title="Kiet Hoang">Gmail</a>
+- 📫 How to reach me **kiethoang101@gmail.com**
 
 - ⚡ Fun fact **"The more I learn, the more I realize I don't know anything"   - K1ethoang -**
 

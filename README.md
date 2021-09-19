@@ -31,12 +31,7 @@
 
 ---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=k1ethoang&show_icons=true&theme=dracula&locale=en&layout=compact" alt="k1ethoang" />
-</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=k1ethoang&show_icons=true&theme=dracula&locale=en" alt="k1ethoang" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=K1ethoang&theme=dark" alt="K1ethoang" /></p>
-
-[![Kiet Hoang's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?K1ethoang)](https://github.com/K1ethoang/github-readme-stats)
-
+[![](https://raw.githubusercontent.com/K1ethoang/K1ethoang/main/profile-summary-card-output/dracula/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/K1ethoang/K1ethoang/main/profile-summary-card-output/dracula/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/K1ethoang/K1ethoang/main/profile-summary-card-output/dracula/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/K1ethoang/K1ethoang/main/profile-summary-card-output/dracula/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/K1ethoang/K1ethoang/main/profile-summary-card-output/dracula/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)

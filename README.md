@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, My full name is Hoang Gia Kiet</h1>
-<h3 align="center">I'm student of [University of Transport and Communications campus in HCMC (UTC2)](https://utc2.edu.vn/).</h3>
+<h3 align="center">I'm student of [University of Transport and Communications campus in HCMC (UTC2)](https://utc2.edu.vn/)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=k1ethoang&label=Profile%20views&color=0e75b6&style=flat" alt="k1ethoang" /> </p>
 

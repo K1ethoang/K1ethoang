@@ -6,7 +6,7 @@
 - 📫 How to reach me **kiethoang101@gmail.com**
 
 - ⚡ Fun fact **"The more I learn, the more I realize I don't know anything"
--                                                       - K1ethoang -**
+                                                            - K1ethoang -**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

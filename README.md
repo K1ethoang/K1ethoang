@@ -7,7 +7,9 @@
 
 - 📫 How to reach me **kiethoang101@gmail.com**
 
-- ⚡ Fun fact **"The more I learn, the more I realize I don't know anything"   - K1ethoang -**
+- ⚡ Fun fact **“ The more I learn, the more I realize how much I don't know. “
+                 - Albert Einstein -
+**
 
 ---
 

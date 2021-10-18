@@ -27,6 +27,8 @@
 
 ### Tools:
 <img align='left' height="32" width="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" />
+<img align='left' height="32" width="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" />
+<img align='left' height="32" width="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" />
 <br>
 <br>
 

@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **C/C++**
 
-- 📫 How to reach me **kiethoang1010@gmail.com**
+- 📫 How to reach me **kiethoang101.dev@gmail.com**
 
 - ⚡ Fun fact **“ The more I learn, the more I realize how much I don't know. “ - Albert Einstein -**
 

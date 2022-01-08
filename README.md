@@ -2,7 +2,7 @@
 
 ![PROFILE VIEWS](https://komarev.com/ghpvc/?username=K1ethoang&color=brightgreen)
 
-- 🌱 I'm currently 3rd year student at **University of Transport and Communications campus in HCMC**
+- 🌱 I'm currently 1st year student at **University of Transport and Communications campus in HCMC**
 
 - 📫 How to reach me **kiethoang101.dev@gmail.com**
 

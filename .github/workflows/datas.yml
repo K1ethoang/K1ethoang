@@ -5,10 +5,6 @@ on:
     - cron: "* */12 * * *"
   workflow_dispatch:
 
-  push:
-    branches: 
-    - main
-
 jobs:
   
   summary-card:

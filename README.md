@@ -61,7 +61,7 @@
 # 📊GitHub Stats :
 |[![stats](https://github-readme-stats.vercel.app/api?username=K1ethoang&layout=compact&theme=radical&hide_border=true&include_all_commits=false&count_private=true&show_icons=true)](https://github.com/K1ethoang)|[![stats](https://github-readme-stats.vercel.app/api/top-langs/?username=K1ethoang&layout=compact&theme=radical&hide_border=true&hide_langs_below=1)](https://github.com/K1ethoang)
 |:---:|:---:|
-|<a href="https://github.com/K1ethoang"><img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=K1ethoang&theme=radical&date_format=M%20j%5B%2C%20Y%5D" alt=""/></a>|<a href="https://github.com/K1ethoang"><img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=K1ethoang&theme=dracula" alt=""/></a>|
+|<a href="https://github.com/K1ethoang"><img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=K1ethoang&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt=""/></a>|<a href="https://github.com/K1ethoang"><img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=K1ethoang&theme=dracula" alt=""/></a>|
 
 <a href="https://github.com/K1ethoang"><img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=K1ethoang&theme=dracula" alt="" width="100%"/></a>
 

@@ -5,12 +5,9 @@
 <h1 align="center"> Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="40px">, I'm Hoang Gia Kiet </br> 
 </h1>
 
-<a href="https://github.com/K1ethoang">
- <img align="" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote"/></a> 
+| <a href="https://github.com/K1ethoang"><img align="" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote"/></a> | <a href="https://github.com/K1ethoang"><img align="" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/PC.gif" alt="PC" heigth="160" width="160"/></a> |
+| ------------- | ------------- |
 
-<a href="https://github.com/K1ethoang">
- <img align="right" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/PC.gif" alt="PC" heigth="160" width="160"/></a>
- 
 <br>
 
 # 💫About Me :
@@ -61,6 +58,11 @@
 # 📊GitHub Stats :
 | <a href="https://github.com/K1ethoang"><img align="center" src="https://github-readme-stats.vercel.app/api?username=K1ethoang&layout=compact&theme=buefy&hide_border=true&include_all_commits=false&count_private=true" alt=""/></a> | <a href="https://github.com/K1ethoang"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=K1ethoang&layout=compact&theme=buefy&hide_border=true&hide_langs_below=1" /></a> |
 | ------------- | ------------- |
+
+
+| <a href="https://github.com/K1ethoang"><img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=K1ethoang&theme=buefy&date_format=M%20j%5B%2C%20Y%5D" alt=""/></a> |
+| ------------- |
+
 
 
 # <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">Connect with me :

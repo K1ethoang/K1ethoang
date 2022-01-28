@@ -9,7 +9,7 @@
  <img align="" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox" alt="Dev Quote"/></a> 
 
 <a href="https://github.com/K1ethoang">
- <img align="right" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/PC.gif" alt="PC" heigth="140" width="140"/></a>
+ <img align="right" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/PC.gif" alt="PC" heigth="160" width="160"/></a>
  
 <br>
 

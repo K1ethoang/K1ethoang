@@ -16,7 +16,7 @@ jobs:
       - name: Summary Cards 
         uses: vn7n24fzkq/github-profile-summary-cards@release
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GENERATE_DATAS_TOKEN }}
         with:
           USERNAME: ${{ github.repository_owner }}
           
@@ -36,4 +36,4 @@ jobs:
           target_branch: output
           build_dir: dist
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GENERATE_DATAS_TOKEN }}

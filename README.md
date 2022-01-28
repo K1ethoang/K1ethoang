@@ -1,4 +1,5 @@
-![github contribution grid snake animation](https://raw.githubusercontent.com/K1ethoang/K1ethoang/output/github-contribution-grid-snake.svg)
+| ![github contribution grid snake animation](https://raw.githubusercontent.com/K1ethoang/K1ethoang/output/github-contribution-grid-snake.svg) |
+| ------------- |
 
 <!-- HI -->
 <h1 align="center"> Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="40px">, I'm Hoang Gia Kiet </br> 
@@ -89,8 +90,10 @@
 <br>
 <br>
 
-<a href="https://github.com/K1ethoang">
- <img align="" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/dino.gif" alt="Dino"/></a>
+<!-- Dino -->
+| <a href="https://github.com/K1ethoang"><img align="" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/dino.gif" alt="Dino"/></a> |
+| ------------- |
 
+<!-- visitor counter -->
 <a href="https://github.com/K1ethoang">
  <img align="" src="https://komarev.com/ghpvc/?username=K1ethoang&label=Visitors+Count&color=brightgreen" alt="visitor counter"/></a>

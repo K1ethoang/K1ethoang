@@ -90,6 +90,8 @@
 <br>
 <br>
 
+![github contribution grid snake animation](https://raw.githubusercontent.com/K1ethoang/K1ethoang/output/github-contribution-grid-snake.svg)
+
 <a href="https://github.com/K1ethoang">
  <img align="" src="https://github.com/VishwaGauravIn/VishwaGauravIn/blob/output/github-contribution-grid-snake.gif" alt="snake"/></a>
 

@@ -59,8 +59,7 @@
 <br>
 
 # 📊GitHub Stats :
-
-|<a href="https://github.com/K1ethoang"><img align="center" src="https://github-readme-stats.vercel.app/api?username=K1ethoang&layout=compact&theme=radical&hide_border=true&include_all_commits=false&count_private=true&show_icons=true" alt=""/></a>|<a href="https://github.com/K1ethoang"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=K1ethoang&layout=compact&theme=radical&hide_border=true&hide_langs_below=1" /></a>|
+|[![stats](https://github-readme-stats.vercel.app/api?username=K1ethoang&layout=compact&theme=radical&hide_border=true&include_all_commits=false&count_private=true&show_icons=true)](https://github.com/K1ethoang)|[![stats](https://github-readme-stats.vercel.app/api/top-langs/?username=K1ethoang&layout=compact&theme=radical&hide_border=true&hide_langs_below=1)](https://github.com/K1ethoang)
 |:---:|:---:|
 |<a href="https://github.com/K1ethoang"><img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=K1ethoang&theme=radical&date_format=M%20j%5B%2C%20Y%5D" alt=""/></a>|<a href="https://github.com/K1ethoang"><img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=K1ethoang&theme=dracula" alt=""/></a>|
 
@@ -85,6 +84,7 @@
  <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="K1ethoang's github" height="30" width="40"/></a>
  
 <!-- youtube -->
+
 <a href="https://www.youtube.com/channel/UCK5Ey9NoSyo7PYBmM3OvjtQ">
  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="K1ethoang's youtube" height="30" width="40"/></a>
  
@@ -92,9 +92,10 @@
 <br>
 
 <!-- Dino -->
-|<a href="https://github.com/K1ethoang"><img align="" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/dino.gif" alt="Dino"/></a>|
+
+|[![dino](https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/dino.gif)](https://github.com/K1ethoang)|
 |:---:|
 
 <!-- visitor counter -->
-<a href="https://github.com/K1ethoang">
- <img align="" src="https://komarev.com/ghpvc/?username=K1ethoang&label=Visitors+Count&color=brightgreen" alt="visitor counter"/></a>
+
+[![visitor counter](https://komarev.com/ghpvc/?username=K1ethoang&label=Visitors+Count&color=brightgreen)](https://github.com/K1ethoang)

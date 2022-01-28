@@ -5,12 +5,11 @@
 <h1 align="center"> Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="40px">, I'm Hoang Gia Kiet </br> 
 </h1>
 
+<a href="https://github.com/K1ethoang">
+ <img align="" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox" alt="Dev Quote"/></a> 
 
 <a href="https://github.com/K1ethoang">
- <img align="" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" alt="Developer"/></a>
- 
-<a href="https://github.com/K1ethoang">
- <img align="right" src="https://quotes-github-readme.vercel.app/api?type=vetical&theme=gruvbox" alt="Dev Quote"/></a> 
+ <img align="right" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/PC.gif" alt="PC" heigth="140" width="140"/></a>
  
 <br>
 

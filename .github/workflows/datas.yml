@@ -5,10 +5,14 @@ on:
     - cron: "* */12 * * *"
   workflow_dispatch:
 
+  push:
+    branches: 
+    - main
+
 jobs:
-  build:
+  
+  summary-card:
     runs-on: ubuntu-latest
-    name: generate
 
     steps:
       - uses: actions/checkout@v2
@@ -21,11 +25,7 @@ jobs:
           USERNAME: ${{ github.repository_owner }}
 
 
-  # run on every push on the master branch
-  push:
-    branches:
-    - main
-    
+  snake-animation:
     runs-on: ubuntu-latest
     timeout-minutes: 10 
 
@@ -39,10 +39,10 @@ jobs:
 
       # push the content of <build_dir> to a branch
       # the content will be available at https://raw.githubusercontent.com/<github_user>/<repository>/<target_branch>/<file> , or as github page
-      - name: push github-contribution-grid-snake.svg to the output branch
+      - name: push github-contribution-grid-snake.svg
         uses: crazy-max/ghaction-github-pages@v2.5.0
         with:
           target_branch: output
           build_dir: dist
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GENERATE_DATAS_TOKEN }}

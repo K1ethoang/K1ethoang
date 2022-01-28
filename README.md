@@ -6,7 +6,7 @@
 </h1>
 
 <a href="https://github.com/K1ethoang">
- <img align="" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox" alt="Dev Quote"/></a> 
+ <img align="" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote"/></a> 
 
 <a href="https://github.com/K1ethoang">
  <img align="right" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/PC.gif" alt="PC" heigth="160" width="160"/></a>
@@ -54,21 +54,13 @@
  
 <a href="https://github.com/K1ethoang">
 <img align='left' height="32" width="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/trello/trello-plain.svg" /></a>
+
 <br>
 <br>
 
 # 📊GitHub Stats :
-<a href="https://github.com/K1ethoang">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=K1ethoang&theme=onedark&hide_border=false&include_all_commits=false&count_private=true" alt="Shubhamdeep's github stats"/>
-</a>
-
-<a href="https://github.com/K1ethoang">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=K1ethoang&theme=onedark&hide_langs_below=1" />
-</a>
-
-<a href="https://github.com/K1ethoang">
- <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=K1ethoang&theme=onedark&hide_border=false" alt="Shubhamdeep's github stats"/>
-</a>
+| <a href="https://github.com/K1ethoang"><img align="center" src="https://github-readme-stats.vercel.app/api?username=K1ethoang&layout=compact&theme=buefy&hide_border=true&include_all_commits=false&count_private=true" alt=""/></a> | <a href="https://github.com/K1ethoang"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=K1ethoang&layout=compact&theme=buefy&hide_border=true&hide_langs_below=1" /></a> |
+| ------------- | ------------- |
 
 
 # <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">Connect with me :
@@ -92,6 +84,7 @@
 <a href="https://www.youtube.com/channel/UCK5Ey9NoSyo7PYBmM3OvjtQ">
  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="K1ethoang's youtube" height="30" width="40"/></a>
  
+<br>
 <br>
 
 <a href="https://github.com/K1ethoang">

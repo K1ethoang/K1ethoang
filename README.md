@@ -10,7 +10,7 @@
  <img align="" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" alt="Developer"/></a>
  
 <a href="https://github.com/K1ethoang">
- <img align="" src="https://quotes-github-readme.vercel.app/api?type=vetical&theme=gruvbox" alt="Dev Quote"/></a> 
+ <img align="right" src="https://quotes-github-readme.vercel.app/api?type=vetical&theme=gruvbox" alt="Dev Quote"/></a> 
  
 <br>
 

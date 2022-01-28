@@ -60,11 +60,11 @@
 
 # 📊GitHub Stats :
 
-|<a href="https://github.com/K1ethoang"><img align="center" src="https://github-readme-stats.vercel.app/api?username=K1ethoang&layout=compact&theme=buefy&hide_border=true&include_all_commits=false&count_private=true&show_icons=true" alt=""/></a>|<a href="https://github.com/K1ethoang"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=K1ethoang&layout=compact&theme=buefy&hide_border=true&hide_langs_below=1" /></a>|
+|<a href="https://github.com/K1ethoang"><img align="center" src="https://github-readme-stats.vercel.app/api?username=K1ethoang&layout=compact&theme=radical&hide_border=true&include_all_commits=false&count_private=true&show_icons=true" alt=""/></a>|<a href="https://github.com/K1ethoang"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=K1ethoang&layout=compact&theme=radical&hide_border=true&hide_langs_below=1" /></a>|
 |:---:|:---:|
-|<a href="https://github.com/K1ethoang"><img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=K1ethoang&theme=buefy&date_format=M%20j%5B%2C%20Y%5D" alt=""/></a>|<a href="https://github.com/K1ethoang"><img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=K1ethoang&theme=default" alt=""/></a>|
+|<a href="https://github.com/K1ethoang"><img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=K1ethoang&theme=radical&date_format=M%20j%5B%2C%20Y%5D" alt=""/></a>|<a href="https://github.com/K1ethoang"><img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=K1ethoang&theme=dracula" alt=""/></a>|
 
-<a href="https://github.com/K1ethoang"><img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=K1ethoang&theme=github" alt="" width="100%"/></a>
+<a href="https://github.com/K1ethoang"><img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=K1ethoang&theme=dracula" alt="" width="100%"/></a>
 
 
 # <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">Connect with me :

@@ -13,8 +13,8 @@ jobs:
     steps:
       - uses: actions/checkout@v2
       
-      - name: Summary Cards 
-        uses: vn7n24fzkq/github-profile-summary-cards@release
+      - name: GitHub-Profile-Summary-Cards
+        uses: vn7n24fzkq/github-profile-summary-cards@v0.4.0-hotfix.3
         env:
           GITHUB_TOKEN: ${{ secrets.GENERATE_DATAS_TOKEN }}
         with:

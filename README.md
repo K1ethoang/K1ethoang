@@ -1,7 +1,7 @@
 <a href="https://github.com/K1ethoang">
  <img align="" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/dino.gif" alt="Dino"/></a>
 
-<h1 align="center"> Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Hoang Gia Kiet </br> 
+<h1 align=""> Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Hoang Gia Kiet </br> 
 </h1>
 
 

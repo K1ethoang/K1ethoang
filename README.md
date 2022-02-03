@@ -59,6 +59,9 @@
 <a href="https://github.com/K1ethoang">
 <img align='left' height="32" width="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/trello/trello-plain.svg" /></a>
 
+<a href="https://github.com/K1ethoang">
+<img align='left' height="32" width="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/canva/canva-original.svg" /></a>
+
 <br>
 <br>
 

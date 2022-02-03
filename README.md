@@ -9,7 +9,7 @@
 </p>
 
 
-|<a href="https://github.com/K1ethoang"><img align="left" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/PC.gif" alt="PC" heigth="160" width="160"/></a>|<a href="https://github.com/K1ethoang"><img align="" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote"/></a> |
+|<a href="https://github.com/K1ethoang"><img align="left" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/PC.gif" alt="PC" heigth="160" width="160"/></a>|![Dev Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)|
 |:---:|:---:|
 
 <br>

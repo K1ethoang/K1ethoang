@@ -10,7 +10,7 @@
 </p>
 
 
-|<a href="https://github.com/K1ethoang"><img align="left" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/PC.gif" alt="PC" heigth="160" width="160"/></a>|[![Dev Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)](https://github.com/K1ethoang)|
+|<a href="https://github.com/K1ethoang"><img align="left" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/PC.gif" alt="PC" heigth="160" width="160"/></a>|[![Dev Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)|
 |:---:|:---:|
 
 <br>
@@ -33,6 +33,9 @@
 
 <a href="https://github.com/K1ethoang">
 <img align='left' height="32" width="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" /></a>
+
+<a href="https://github.com/K1ethoang">
+<img align='left' height="32" width="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" /></a>
 
 <a href="https://github.com/K1ethoang">
 <img align='left' height="32" width="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/markdown/markdown-original.svg" /></a>

@@ -14,7 +14,7 @@
 <br>
 
 # 💫About Me :
-- 👨‍💻 My full name is **Hoàng Gia Kiệt** <img src="https://i.pinimg.com/originals/eb/50/87/eb50875a68b04b0480fa929af2c7547c.gif" width="400" align="right"/>
+- 👨‍💻 My full name is **Hoàng Gia Kiệt** <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Developer.gif" align="right"/>
 
 - 🌱 I'm currently 2nd-year student at **University of Transport and Communications campus in HCMC**
 
@@ -83,7 +83,7 @@
   <br>
   
 <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=K1ethoang&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt=""/></a>
-  <a href="https://github.com/K1ethoang"><img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=K1ethoang&theme=dracula" alt=""/></a>
+  <a href="https://github.com/K1ethoang"><img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=K1ethoang&theme=radical" alt=""/></a>
 
   
 </details>
@@ -98,15 +98,19 @@
 </details>
 
   <!-- Activity Graph -->
-[![K1ethoang's github activity graph](https://activity-graph.herokuapp.com/graph?username=K1ethoang&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![K1ethoang's github activity graph](https://activity-graph.herokuapp.com/graph?username=K1ethoang&theme=radical)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 
 
 # <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">Connect with me :
+<!-- gmail -->
+<a href="kiethoang101.dev@gmail.com">
+ <img align="center" src="https://raw.githubusercontent.com/SatYu26/SatYu26/master/Assets/Gmail.svg" alt="K1ethoang's gmail" height="30" width="40"/></a>
+
 <!-- linkedin -->
 <a href="https://linkedin.com/in/k1ethoang">
- <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="K1ethoang's linkedin" height="30" width="40"/></a>
+ <img align="center" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" alt="K1ethoang's linkedin" height="30" width="40"/></a>
 
 <!-- facebook -->
 <a href="https://fb.com/K1ethoang">

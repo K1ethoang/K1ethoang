@@ -1,8 +1,8 @@
 name: Generate Data
 
 on:
-  schedule: # execute every 6 hours
-    - cron: "0 */6 * * *"
+  schedule: # execute every 3 hours
+    - cron: "0 */3 * * *"
   workflow_dispatch:
 
 jobs:
@@ -42,8 +42,8 @@ jobs:
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GENERATE_DATAS_TOKEN }}
-          
-          
+  
+  
   github-activity:
       runs-on: ubuntu-latest
       name: Update this repo's README with recent activity

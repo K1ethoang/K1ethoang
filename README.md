@@ -76,8 +76,7 @@
 <details>
   <summary>💻 GitHub Profile Stats</summary>
   
-  [![stats](https://github-readme-stats.vercel.app/api?username=K1ethoang&layout=compact&theme=radical&hide_border=true&include_all_commits=false&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
- [![stats](https://github-readme-stats.vercel.app/api/top-langs/?username=K1ethoang&langs_count=10&layout=compact&theme=radical&hide_border=true&hide_langs_below=1)](https://github.com/anuraghazra/github-readme-stats)
+  [![stats](https://github-readme-stats.vercel.app/api?username=K1ethoang&layout=compact&theme=radical&hide_border=true&include_all_commits=false&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)[![stats](https://github-readme-stats.vercel.app/api/top-langs/?username=K1ethoang&langs_count=10&layout=compact&theme=radical&hide_border=true&hide_langs_below=1)](https://github.com/anuraghazra/github-readme-stats)
   <br>
  **Note**: Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
   <br>

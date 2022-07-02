@@ -14,7 +14,7 @@
 <br>
 
 # 💫About Me :
-- 👨‍💻 My full name is **Hoàng Gia Kiệt**
+- 👨‍💻 My full name is **Hoàng Gia Kiệt** <img src="https://i.pinimg.com/originals/eb/50/87/eb50875a68b04b0480fa929af2c7547c.gif" width="400" align="right"/>
 
 - 🌱 I'm currently 2nd-year student at **University of Transport and Communications campus in HCMC**
 
@@ -73,11 +73,36 @@
 <br>
 
 # 📊GitHub Stats :
-|[![stats](https://github-readme-stats.vercel.app/api?username=K1ethoang&layout=compact&theme=radical&hide_border=true&include_all_commits=false&count_private=true&show_icons=true)](https://github.com/K1ethoang)|Public Repo<br>[![stats](https://github-readme-stats.vercel.app/api/top-langs/?username=K1ethoang&langs_count=10&layout=compact&theme=radical&hide_border=true&hide_langs_below=1)](https://github.com/K1ethoang)
-|:---:|:---:|
-|<a href="https://github.com/K1ethoang"><img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=K1ethoang&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt=""/></a>|<a href="https://github.com/K1ethoang"><img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=K1ethoang&theme=dracula" alt=""/></a>|
+<details>
+  <summary>💻 GitHub Profile Stats</summary>
+  
+  [![stats](https://github-readme-stats.vercel.app/api?username=K1ethoang&layout=compact&theme=radical&hide_border=true&include_all_commits=false&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+ [![stats](https://github-readme-stats.vercel.app/api/top-langs/?username=K1ethoang&langs_count=10&layout=compact&theme=radical&hide_border=true&hide_langs_below=1)](https://github.com/anuraghazra/github-readme-stats)
+  <br>
+ **Note**: Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+  <br>
+  
+  <!--  Streak stats -->
+<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=K1ethoang&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt=""/></a>
+  
+  <a href="https://github.com/K1ethoang"><img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=K1ethoang&theme=dracula" alt=""/></a>
 
-<a href="https://github.com/K1ethoang"><img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=K1ethoang&theme=dracula" alt="" width="100%"/></a>
+  
+</details>
+
+<details>
+  <summary>⚡ Recent GitHub Activity</summary>
+  
+<!--START_SECTION:activity-->
+
+<!--END_SECTION:activity-->
+  
+</details>
+
+  <!-- Activity Graph -->
+[![K1ethoang's github activity graph](https://activity-graph.herokuapp.com/graph?username=K1ethoang&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
 
 
 # <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">Connect with me :

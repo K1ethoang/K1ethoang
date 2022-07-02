@@ -16,7 +16,7 @@
 <br>
 
 # 💫About Me :
-- 🌱 I'm currently 1st-year student at **University of Transport and Communications campus in HCMC**
+- 🌱 I'm currently 2nd-year student at **University of Transport and Communications campus in HCMC**
 
 - 📫 How to reach me **kiethoang101.dev@gmail.com**
 

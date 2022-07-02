@@ -6,7 +6,6 @@ on:
   workflow_dispatch:
 
 jobs:
-  
   summary-card:
     runs-on: ubuntu-latest
 
@@ -42,14 +41,3 @@ jobs:
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GENERATE_DATAS_TOKEN }}
-  
-  
-  github-activity:
-      runs-on: ubuntu-latest
-      name: Update this repo's README with recent activity
-
-      steps:
-        - uses: actions/checkout@v2
-        - uses: jamesgeorge007/github-activity-readme@master
-          env:
-            GITHUB_TOKEN: ${{ secrets.GENERATE_DATAS_TOKEN }}

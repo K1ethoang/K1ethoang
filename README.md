@@ -103,9 +103,7 @@
 </details>
 
   <!-- Activity Graph -->
-[![K1ethoang's github activity graph](https://activity-graph.herokuapp.com/graph?username=K1ethoang&bg_color=141317&color=b8fff9&line=ae81ff&point=c43672)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-
+[![K1ethoang's github activity graph](https://activity-graph.herokuapp.com/graph?username=K1ethoang&theme=xcode)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 # <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">Connect with me :
 <!-- gmail -->

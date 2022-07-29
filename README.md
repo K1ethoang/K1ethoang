@@ -22,8 +22,8 @@
 
 - 📫 How to reach me **kiethoang101.dev@gmail.com**
 
-# 💻Tech Stack :
-### Programming Languages
+# 💻Languages and Tools:
+
 <a href="https://github.com/K1ethoang">
 <img align='left' height="32" width="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" /></a>
 
@@ -32,34 +32,21 @@
 
 <a href="https://github.com/K1ethoang">
 <img align='left' height="32" width="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" /></a>
-<br>
 
-### Frontend Development
 <a href="https://github.com/K1ethoang">
 <img align='left' height="32" width="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" /></a>
 
 <a href="https://github.com/K1ethoang">
 <img align='left' height="32" width="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" /></a>
-<br>
 
-<!--
-### Backend Development
-<br>
--->
-
-### Database
 <img align='left' height="32" width="32" src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" />
-<br>
 
-### Version Control
 <a href="https://github.com/K1ethoang">
  <img align='left' height="32" width="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" /></a>
  
 <a href="https://github.com/K1ethoang">
 <img align='left' height="32" width="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" /></a>
-<br>
 
-### Others
 <a href="https://github.com/K1ethoang">
 <img align='left' height="32" width="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" /></a>
 

@@ -22,8 +22,8 @@
 
 - 📫 How to reach me **kiethoang101.dev@gmail.com**
     
-    ```
-    Ngày hôm nay là phiên bản tốt hơn của hôm qua 😊
+    ``` reactjs
+    <MyQuote content="Ngày hôm nay là phiên bản tốt hơn của hôm qua" />
     ```
 
 # 💻Languages and Tools:

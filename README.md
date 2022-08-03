@@ -21,6 +21,10 @@
 - 🌏 I'm living now in **Dong Nai Province, Viet Nam**
 
 - 📫 How to reach me **kiethoang101.dev@gmail.com**
+    
+    ```
+    Ngày hôm nay là phiên bản tốt hơn của hôm qua 😊
+    ```
 
 # 💻Languages and Tools:
 

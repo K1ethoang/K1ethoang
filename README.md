@@ -14,9 +14,9 @@
 <br>
 
 # 💫About Me :
-- 👨‍💻 My full name is **Hoàng Gia Kiệt** <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Developer.gif" align="right"/>
+<img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Developer.gif" align="right"/>
 
-- 😊 I’m currently learning **React**
+- 😊 I’m currently learning **React** 
 
 - 🌱 I'm 2nd-year student at **University of Transport and Communications campus in HCMC**
 

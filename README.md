@@ -11,8 +11,6 @@
 |:---:|:---|
 |<a href="https://github.com/K1ethoang"><img align="left" src="/resource/gif/cat.gif" alt="PC" heigth="160" width="160"/></a>|![](https://readme-jokes.vercel.app/api?hideBorder&theme=random)|
 
-<br>
-
 # 💫About Me :
 <img src="/resource/gif/Developer.gif" align="right"/>
 

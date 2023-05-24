@@ -7,9 +7,9 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&color=%2336BCF7&size=30&duration=1600&lines=Ch%C3%A0o+th%E1%BA%BF+gi%E1%BB%9Bi!;Hello+World!;%E4%BD%A0%E5%A5%BD%E4%B8%96%E7%95%8C!;%D0%9F%D1%80%D0%B8%D0%B2%D0%B5%D1%82+%D0%BC%D0%B8%D1%80!;%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF%E4%B8%96%E7%95%8C!;%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94!;Bonjour+monde!;Halo+Dunia!;%E0%BA%AA%E0%BA%B0%E2%80%8B%E0%BA%9A%E0%BA%B2%E0%BA%8D%E2%80%8B%E0%BA%94%E0%BA%B5%E2%80%8B%E0%BA%8A%E0%BA%B2%E0%BA%A7%E2%80%8B%E0%BB%82%E0%BA%A5%E0%BA%81!;Hallo+Welt!;%E0%B8%AA%E0%B8%A7%E0%B8%B1%E0%B8%AA%E0%B8%94%E0%B8%B5%E0%B8%8A%E0%B8%B2%E0%B8%A7%E0%B9%82%E0%B8%A5%E0%B8%81;Hola+Mundo">
 </p>
 
-
-|<a href="https://github.com/K1ethoang"><img align="left" src="/resource/gif/PC.gif" alt="PC" heigth="160" width="160"/></a>|[![Dev Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)|
-|:---:|:---:|
+|<a href="https://github.com/K1ethoang"><img align="left" src="/resource/gif/luffy.gif" alt="PC" heigth="160" width="160"/></a>|[![Dev Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)|
+|:---:|:---|
+|<a href="https://github.com/K1ethoang"><img align="left" src="/resource/gif/cat.gif" alt="PC" heigth="160" width="160"/></a>|![](https://readme-jokes.vercel.app/api?hideBorder&theme=random)|
 
 <br>
 

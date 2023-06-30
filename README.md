@@ -91,7 +91,7 @@
 
 # <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">Connect with me :
 <!-- gmail -->
-<a href="kiethoang101.dev@gmail.com">
+<a href="mailto:kiethoang101.dev@gmail.com">
  <img align="center" src="https://raw.githubusercontent.com/SatYu26/SatYu26/master/Assets/Gmail.svg" alt="K1ethoang's gmail" height="30" width="40"/></a>
 
 <!-- linkedin -->
@@ -113,6 +113,10 @@
 <!-- youtube -->
 <a href="https://www.youtube.com/K1ethoang">
  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="K1ethoang's youtube" height="30" width="40"/></a>
+
+<!-- codeforces -->
+<a href="https://codeforces.com/profile/k1ethoang">
+ <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="K1ethoang's codeforces" height="30" width="40"/></a>
  
 <br>
 <br>

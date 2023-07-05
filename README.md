@@ -16,7 +16,7 @@
 
 - 😊 I’m currently learning **Java** 
 
-- 🌱 I'm 2nd-year student at **University of Transport and Communications campus in HCMC**
+- 🌱 I'm 3rd-year student at **University of Transport and Communications campus in HCMC**
 
 - 🌏 I'm living now in **Dong Nai Province, Viet Nam**
 

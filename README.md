@@ -9,7 +9,7 @@
 
 |<a href="https://github.com/K1ethoang"><img align="left" src="/resource/gif/luffy.gif" alt="PC" heigth="160" width="160"/></a>|[![Dev Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)|
 |:---:|:---|
-|<a href="https://github.com/K1ethoang"><img align="left" src="/resource/gif/cat.gif" alt="PC" heigth="160" width="160"/></a>|![](https://readme-jokes.vercel.app/api?hideBorder&theme=random)|
+|<a href="https://github.com/K1ethoang"><img align="left" src="/resource/gif/cat.gif" alt="PC" heigth="160" width="160"/></a>|![](https://readme-jokes.vercel.app/api?hideBorder&theme=radical)|
 
 # 💫About Me :
 <img src="/resource/gif/Developer.gif" align="right"/>

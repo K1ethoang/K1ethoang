@@ -91,31 +91,31 @@
 
 # <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">Connect with me :
 <!-- gmail -->
-<a href="mailto:kiethoang101.dev@gmail.com">
+<a target="_blank" href="mailto:kiethoang101.dev@gmail.com">
  <img align="center" src="https://raw.githubusercontent.com/SatYu26/SatYu26/master/Assets/Gmail.svg" alt="K1ethoang's gmail" height="30" width="40"/></a>
 
 <!-- linkedin -->
-<a href="https://linkedin.com/in/k1ethoang">
+<a target="_blank" href="https://linkedin.com/in/k1ethoang">
  <img align="center" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" alt="K1ethoang's linkedin" height="30" width="40"/></a>
 
 <!-- facebook -->
-<a href="https://fb.com/K1ethoang">
+<a target="_blank" href="https://fb.com/K1ethoang">
  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="K1ethoang's facebook" height="30" width="40"/></a>
  
 <!-- instagram -->
-<a href="https://instagram.com/k1ethoang">
+<a target="_blank" href="https://instagram.com/k1ethoang">
  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="K1ethoang's instagram" height="30" width="40"/></a>
  
  <!-- github -->
-<a href="https://github.com/K1ethoang">
+<a target="_blank" href="https://github.com/K1ethoang">
  <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="K1ethoang's github" height="30" width="40"/></a>
  
 <!-- youtube -->
-<a href="https://www.youtube.com/K1ethoang">
+<a target="_blank" href="https://www.youtube.com/K1ethoang">
  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="K1ethoang's youtube" height="30" width="40"/></a>
 
 <!-- codeforces -->
-<a href="https://codeforces.com/profile/k1ethoang">
+<a target="_blank" href="https://codeforces.com/profile/k1ethoang">
  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="K1ethoang's codeforces" height="30" width="40"/></a>
  
 <br>

@@ -46,6 +46,8 @@ jobs:
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          
+          
   cf-stats:
       runs-on: ubuntu-latest
 
@@ -73,7 +75,7 @@ jobs:
           run: |
             python3 -m pip install --upgrade pip setuptools wheel
             python3 -m pip install -r cf-stats/requirements.txt
-            pip install -e .
+            pip install -e cf-stats/.
 
         - name: create env file
           run: |
@@ -91,7 +93,7 @@ jobs:
           run: |
             git config --global user.name "sudiptob2/cf-stats"
             git config --global user.email "cf-stats[bot]@sudiptob2.github.io"
-            git add .
+            git add cf-stats/.
             # Force the build to succeed, even if no files were changed
             git commit -m 'Update generated files' || true
             git push

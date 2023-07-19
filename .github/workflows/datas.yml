@@ -65,7 +65,7 @@ jobs:
         - uses: actions/cache@v2
           with:
             path: ~/.cache/pip
-            key: ${{ runner.os }}-pip-${{ hashFiles('**/requirements.txt') }}
+            key: ${{ runner.os }}-pip-${{ hashFiles('**/cf-stats/requirements.txt') }}
             restore-keys: |
               ${{ runner.os }}-pip-
         # Install dependencies with `pip`
@@ -77,14 +77,14 @@ jobs:
 
         - name: create env file
           run: |
-            touch config/.env
-            cat config/.env.template > config/.env
+            touch cf-stats/config/.env
+            cat cf-stats/config/.env.template > cf-stats/config/.env
 
         # Generate all statistics images
         - name: Generate images
           run: |
             python3 --version
-            python3 app/main.py
+            python3 cf-stats/app/main.py
 
         # Commit all changed files to the repository
         - name: Commit to the repo

@@ -91,9 +91,9 @@ jobs:
         # Commit all changed files to the repository
         - name: Commit to the repo
           run: |
-            git config --global user.name "sudiptob2/cf-stats"
-            git config --global user.email "cf-stats[bot]@sudiptob2.github.io"
-            git add cf-stats/.
+            git config --global user.name "K1ethoang"
+            git config --global user.email "kiethoang101@gmail.com"
+            git add .
             # Force the build to succeed, even if no files were changed
             git commit -m 'Update generated files' || true
             git push

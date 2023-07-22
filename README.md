@@ -70,8 +70,18 @@
 <br>
 <br>
 
-# 📊Stats :
-## 😻Github:
+# 👨‍💻Competitive Programming Stats:
+<a target="_blank" href="https://codeforces.com/profile/K1ethoang">
+<!-- <img src="https://raw.githubusercontent.com/K1ethoang/cf-stats/main/output/light_card.svg#gh-dark-mode-only" /> -->
+<!-- <img src="https://raw.githubusercontent.com/K1ethoang/cf-stats/main/output/light_card.svg" /> -->
+<!-- </a> -->
+<!-- <br/> -->
+<!-- <a target="_blank" href="https://codeforces.com/profile/K1ethoang"> -->
+<!-- <img src="https://raw.githubusercontent.com/K1ethoang/cf-stats/main/output/max_rating.svg" /> -->
+<!-- <img src="https://raw.githubusercontent.com/K1ethoang/cf-stats/main/output/rating.svg" /> -->
+<!-- </a> -->
+
+# 📊Github Stats :
 <details>
   <summary>💻 GitHub Profile Stats</summary>
   
@@ -87,17 +97,6 @@
 
   <!-- Activity Graph -->
 [![K1ethoang's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=K1ethoang&theme=xcode)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-## 👨‍💻Codeforces:
-<a target="_blank" href="https://codeforces.com/profile/K1ethoang">
-<!-- <img src="https://raw.githubusercontent.com/K1ethoang/cf-stats/main/output/light_card.svg#gh-dark-mode-only" /> -->
-<!-- <img src="https://raw.githubusercontent.com/K1ethoang/cf-stats/main/output/light_card.svg" /> -->
-<!-- </a> -->
-<!-- <br/> -->
-<!-- <a target="_blank" href="https://codeforces.com/profile/K1ethoang"> -->
-<!-- <img src="https://raw.githubusercontent.com/K1ethoang/cf-stats/main/output/max_rating.svg" /> -->
-<!-- <img src="https://raw.githubusercontent.com/K1ethoang/cf-stats/main/output/rating.svg" /> -->
-<!-- </a> -->
 
 # <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">Connect with me :
 <!-- gmail -->

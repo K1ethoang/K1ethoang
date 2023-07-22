@@ -90,14 +90,14 @@
 
 ## 👨‍💻Codeforces:
 <a target="_blank" href="https://codeforces.com/profile/K1ethoang">
-<img src="https://raw.githubusercontent.com/K1ethoang/cf-stats/main/output/light_card.svg#gh-dark-mode-only" />
+<!-- <img src="https://raw.githubusercontent.com/K1ethoang/cf-stats/main/output/light_card.svg#gh-dark-mode-only" /> -->
 <!-- <img src="https://raw.githubusercontent.com/K1ethoang/cf-stats/main/output/light_card.svg" /> -->
-</a>
-<br/>
-<a target="_blank" href="https://codeforces.com/profile/K1ethoang">
-<img src="https://raw.githubusercontent.com/K1ethoang/cf-stats/main/output/max_rating.svg" />
-<img src="https://raw.githubusercontent.com/K1ethoang/cf-stats/main/output/rating.svg" />
-</a>
+<!-- </a> -->
+<!-- <br/> -->
+<!-- <a target="_blank" href="https://codeforces.com/profile/K1ethoang"> -->
+<!-- <img src="https://raw.githubusercontent.com/K1ethoang/cf-stats/main/output/max_rating.svg" /> -->
+<!-- <img src="https://raw.githubusercontent.com/K1ethoang/cf-stats/main/output/rating.svg" /> -->
+<!-- </a> -->
 
 # <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">Connect with me :
 <!-- gmail -->

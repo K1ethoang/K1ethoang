@@ -1,5 +1,5 @@
 <!-- visitor counter -->
-<!-- [![](https://raw.githubusercontent.com/K1ethoang/cf-stats/main/output/max_rating.svg)](https://codeforces.com/profile/K1ethoang) -->
+[![](https://raw.githubusercontent.com/K1ethoang/cf-stats/main/output/max_rating.svg)](https://codeforces.com/profile/K1ethoang)
 [![visitor counter](https://komarev.com/ghpvc/?username=K1ethoang&label=Visitors+Count&color=brightgreen)](https://github.com/K1ethoang)
 [![](https://img.shields.io/github/followers/K1ethoang?label=Followers&style=social)](https://github.com/K1ethoang)
 <br>
@@ -74,14 +74,12 @@
 
 # 👨‍💻Competitive Programming Stats:
 <a target="_blank" href="https://codeforces.com/profile/K1ethoang">
-<!-- <img src="https://raw.githubusercontent.com/K1ethoang/cf-stats/main/output/light_card.svg#gh-dark-mode-only" /> -->
+<img src="https://raw.githubusercontent.com/K1ethoang/cf-stats/main/output/light_card.svg#gh-dark-mode-only" />
 <!-- <img src="https://raw.githubusercontent.com/K1ethoang/cf-stats/main/output/light_card.svg" /> -->
-<!-- </a> -->
-<!-- <br/> -->
-<!-- <a target="_blank" href="https://codeforces.com/profile/K1ethoang"> -->
-<!-- <img src="https://raw.githubusercontent.com/K1ethoang/cf-stats/main/output/max_rating.svg" /> -->
-<!-- <img src="https://raw.githubusercontent.com/K1ethoang/cf-stats/main/output/rating.svg" /> -->
-<!-- </a> -->
+<br/>
+<img src="https://raw.githubusercontent.com/K1ethoang/cf-stats/main/output/max_rating.svg" />
+<img src="https://raw.githubusercontent.com/K1ethoang/cf-stats/main/output/rating.svg" />
+</a>
 
 # 📊Github Stats :
 <details>

@@ -2,6 +2,7 @@
 [![](https://raw.githubusercontent.com/K1ethoang/cf-stats/main/output/max_rating.svg)](https://codeforces.com/profile/K1ethoang)
 [![visitor counter](https://komarev.com/ghpvc/?username=K1ethoang&label=Visitors+Count&color=brightgreen)](https://github.com/K1ethoang)
 [![](https://img.shields.io/github/followers/K1ethoang?label=Followers&style=social)](https://github.com/K1ethoang)
+![GitHub User's stars](https://img.shields.io/github/stars/K1ethoang)
 <br>
 
 <!-- Hello -->

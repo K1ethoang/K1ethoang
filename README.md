@@ -14,7 +14,7 @@
 |:---:|:---|
 |<a href="https://github.com/K1ethoang"><img align="left" src="/resource/gif/cat.gif" alt="PC" heigth="160" width="160"/></a>|![](https://readme-jokes.vercel.app/api?hideBorder&theme=radical)|
 
-# 💫About Me :
+## 💫About Me :
 <img src="/resource/gif/Developer.gif" align="right"/>
 
 - 😊 I’m currently learning **Java** 
@@ -29,51 +29,15 @@
     <MyQuote content="Ngày hôm nay là phiên bản tốt hơn của hôm qua" />
     ```
 
-# 💻Languages and Tools:
+## 💻Languages and Tools:
 
-<a href="https://github.com/K1ethoang">
-<img align='left' height="32" width="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" /></a>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cpp,html,css,js,markdown,mysql,git,github,vscode,postman" />
+  </a>
+</p>
 
-<a href="https://github.com/K1ethoang">
-<img align='left' height="32" width="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" /></a>
-
-
-<a href="https://github.com/K1ethoang">
-<img align='left' height="32" width="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" /></a>
-
-<a href="https://github.com/K1ethoang">
-<img align='left' height="32" width="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" /></a>
-
-<a href="https://github.com/K1ethoang">
-<img align='left' height="32" width="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" /></a>
-
-<a href="https://github.com/K1ethoang">
-<img align='left' height="32" width="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" /></a>
-
-<a href="https://github.com/K1ethoang">
-<img align='left' height="32" width="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" /></a>
-
-<img align='left' height="32" width="32" src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" />
-
-<a href="https://github.com/K1ethoang">
- <img align='left' height="32" width="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" /></a>
- 
-<a href="https://github.com/K1ethoang">
-<img align='left' height="32" width="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" /></a>
-
-<a href="https://github.com/K1ethoang">
-<img align='left' height="32" width="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" /></a>
-
-<a href="https://github.com/K1ethoang">
-<img align='left' height="32" width="32" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" /></a>
-
-<a href="https://github.com/K1ethoang">
-<img align='left' height="32" width="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/markdown/markdown-original.svg" /></a>
-
-<br>
-<br>
-
-# 👨‍💻Competitive Programming Stats:
+## 👨‍💻Competitive Programming Stats:
 <a target="_blank" href="https://codeforces.com/profile/K1ethoang">
 <img src="https://raw.githubusercontent.com/K1ethoang/cf-stats/main/output/light_card.svg#gh-dark-mode-only" />
 <!-- <img src="https://raw.githubusercontent.com/K1ethoang/cf-stats/main/output/light_card.svg" /> -->
@@ -82,7 +46,7 @@
 <img src="https://raw.githubusercontent.com/K1ethoang/cf-stats/main/output/rating.svg" />
 </a>
 
-# 📊Github Stats :
+## 📊Github Stats :
 <details>
   <summary>💻 GitHub Profile Stats</summary>
   
@@ -99,7 +63,7 @@
   <!-- Activity Graph -->
 [![K1ethoang's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=K1ethoang&theme=xcode)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-# <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">Connect with me :
+## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">Connect with me :
 <!-- gmail -->
 <a target="_blank" href="mailto:kiethoang101.dev@gmail.com">
  <img align="center" src="https://raw.githubusercontent.com/SatYu26/SatYu26/master/Assets/Gmail.svg" alt="K1ethoang's gmail" height="30" width="40"/></a>

@@ -17,7 +17,7 @@
 ## 💫About Me :
 <img src="/resource/gif/Developer.gif" align="right"/>
 
-- 😊 I’m currently learning **Java** 
+- 😊 I’m currently learning **Backend** 
 
 - 🌱 I'm 3rd-year student at **University of Transport and Communications campus in HCMC**
 

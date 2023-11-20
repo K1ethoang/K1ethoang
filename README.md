@@ -6,7 +6,7 @@
 <!-- View counter - https://github.com/DenverCoder1/Simple-View-Counter -->
 <p align="center">
   <a target="_blank" href="https://codeforces.com/profile/K1ethoang">
-    <img alt="Codeforces profile" title="Codeforces profile" src="https://raw.githubusercontent.com/K1ethoang/cf-stats/main/output/max_rating.svg"/></a>
+    <img alt="Codeforces profile" title="Codeforces profile" src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fcodeforces.com%2Fapi%2Fuser.info%3Fhandles%3DK1ethoang&query=%24.result%5B%3A1%5D.rating&style=for-the-badge&logo=codeforces&logoColor=ffffff&label=Codeforces%20rating&labelColor=4D5D69&color=2196F3"/></a>
   <a target="_blank" href="https://www.youtube.com/c/K1ethoang?sub_confirmation=1">
     <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://img.shields.io/youtube/channel/subscribers/UCK5Ey9NoSyo7PYBmM3OvjtQ?style=for-the-badge&logo=youtube&labelColor=CE4630&color=E05D44"/></a>
   <a target="_blank" href="https://www.youtube.com/c/K1ethoang">

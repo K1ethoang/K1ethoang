@@ -50,15 +50,6 @@
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/192108890-200809d1-439c-4e23-90d3-b090cf9a4eea.png" alt="InteliJ" title="InteliJ"/></code>
 </div>
 
-## 👨‍💻Competitive Programming Stats:
-<a target="_blank" href="https://codeforces.com/profile/K1ethoang">
-<img src="https://raw.githubusercontent.com/K1ethoang/cf-stats/main/output/light_card.svg#gh-dark-mode-only" />
-<!-- <img src="https://raw.githubusercontent.com/K1ethoang/cf-stats/main/output/light_card.svg" /> -->
-<br/>
-<img src="https://raw.githubusercontent.com/K1ethoang/cf-stats/main/output/max_rating.svg" />
-<img src="https://raw.githubusercontent.com/K1ethoang/cf-stats/main/output/rating.svg" />
-</a>
-
 <details open>
   <summary><h2> 📺 Lastest YouTube Video </h2></summary>
 	
@@ -68,7 +59,18 @@
 [![Hướng dẫn cài đặt VSCode và MinGW - Lập trình C/C++. Một số Extensions bá đạo | K1ethoang](https://ytcards.demolab.com/?id=BOa0Enkaw9c&title=H%C6%B0%E1%BB%9Bng+d%E1%BA%ABn+c%C3%A0i+%C4%91%E1%BA%B7t+VSCode+v%C3%A0+MinGW+-+L%E1%BA%ADp+tr%C3%ACnh+C%2FC%2B%2B.+M%E1%BB%99t+s%E1%BB%91+Extensions+b%C3%A1+%C4%91%E1%BA%A1o+%7C+K1ethoang&lang=en&timestamp=1634096553&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Hướng dẫn cài đặt VSCode và MinGW - Lập trình C/C++. Một số Extensions bá đạo | K1ethoang")](https://www.youtube.com/watch?v=BOa0Enkaw9c)
 <!-- END YOUTUBE-CARDS -->
 
-<a href="https://www.youtube.com/c/K1ethoang?sub_confirmation=1" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/-Subscribe-red?style=for-the-badge&logo=video&logoColor=white"/></a>
+<a target="_blank" href="https://www.youtube.com/c/K1ethoang?sub_confirmation=1"><img src="https://custom-icon-badges.demolab.com/badge/-Subscribe-red?style=for-the-badge&logo=video&logoColor=white"/></a>
+</details>
+
+<details>
+<summary><h2>👨‍💻 Competitive Programming Stats</h2></summary>
+<a target="_blank" href="https://codeforces.com/profile/K1ethoang">
+<img src="https://raw.githubusercontent.com/K1ethoang/cf-stats/main/output/light_card.svg#gh-dark-mode-only" />
+<!-- <img src="https://raw.githubusercontent.com/K1ethoang/cf-stats/main/output/light_card.svg" /> -->
+<br/>
+<img src="https://raw.githubusercontent.com/K1ethoang/cf-stats/main/output/max_rating.svg" />
+<img src="https://raw.githubusercontent.com/K1ethoang/cf-stats/main/output/rating.svg" />
+</a>
 </details>
 
 <details>

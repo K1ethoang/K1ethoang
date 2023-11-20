@@ -14,7 +14,7 @@
 |:---:|:---|
 |<a href="https://github.com/K1ethoang"><img align="left" src="/resource/gif/cat.gif" alt="PC" heigth="160" width="160"/></a>|![](https://readme-jokes.vercel.app/api?hideBorder&theme=radical)|
 
-## 💫About Me :
+## 💫 About Me :
 <img src="/resource/gif/Developer.gif" align="right"/>
 
 - 😊 I’m currently learning **Backend** 
@@ -29,7 +29,7 @@
     <MyQuote content="Ngày hôm nay là phiên bản tốt hơn của hôm qua" />
     ```
 
-## 💻Languages and Tools:
+## 💻 Languages and Tools:
 
 <div align="center">
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/192106073-90fffafe-3562-4ff9-a37e-c77a2da0ff58.png" alt="C++" title="C++"/></code>
@@ -59,9 +59,17 @@
 <img src="https://raw.githubusercontent.com/K1ethoang/cf-stats/main/output/rating.svg" />
 </a>
 
-## 📊Github Stats :
+<details open>
+  <summary><h2> 📺 Lastest YouTube Video </h2></summary>
+	
+<!-- BEGIN YOUTUBE-CARDS -->
+<!-- END YOUTUBE-CARDS -->
+
+<a href="https://www.youtube.com/c/K1ethoang?sub_confirmation=1" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/-Subscribe-red?style=for-the-badge&logo=video&logoColor=white"/></a>
+</details>
+
 <details>
-  <summary>💻 GitHub Profile Stats</summary>
+  <summary><h2> 📊 Github Stats </h2></summary>
   
   [![stats](https://github-readme-stats.vercel.app/api?username=K1ethoang&layout=compact&theme=radical&hide_border=true&include_all_commits=false&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)[![stats](https://github-readme-stats.vercel.app/api/top-langs/?username=K1ethoang&langs_count=10&layout=compact&theme=radical&hide_border=true&hide_langs_below=1)](https://github.com/anuraghazra/github-readme-stats)
   <br>
@@ -70,13 +78,13 @@
   
 <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=K1ethoang&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt=""/></a>
   <a href="https://github.com/K1ethoang"><img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=K1ethoang&theme=radical&utcOffset=7" alt=""/></a>
+
+    <!-- Activity Graph -->
+[![K1ethoang's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=K1ethoang&theme=xcode)](https://github.com/ashutosh00710/github-readme-activity-graph)
 </details>
 
 
-  <!-- Activity Graph -->
-[![K1ethoang's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=K1ethoang&theme=xcode)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">Connect with me :
+## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px"> Connect with me :
 <!-- gmail -->
 <a target="_blank" href="mailto:kiethoang101.dev@gmail.com">
  <img align="center" src="https://raw.githubusercontent.com/SatYu26/SatYu26/master/Assets/Gmail.svg" alt="K1ethoang's gmail" height="30" width="40"/></a>

@@ -5,17 +5,17 @@
 
 <!-- View counter - https://github.com/DenverCoder1/Simple-View-Counter -->
 <p align="center">
-  <a href="https://codeforces.com/profile/K1ethoang">
-    <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://raw.githubusercontent.com/K1ethoang/cf-stats/main/output/max_rating.svg"/></a>
-  <a href="https://www.youtube.com/c/K1ethoang?sub_confirmation=1">
+  <a target="_blank" href="https://codeforces.com/profile/K1ethoang">
+    <img alt="Codeforces profile" title="Codeforces profile" src="https://raw.githubusercontent.com/K1ethoang/cf-stats/main/output/max_rating.svg"/></a>
+  <a target="_blank" href="https://www.youtube.com/c/K1ethoang?sub_confirmation=1">
     <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://img.shields.io/youtube/channel/subscribers/UCK5Ey9NoSyo7PYBmM3OvjtQ?style=for-the-badge&logo=youtube&labelColor=CE4630&color=E05D44"/></a>
-  <a href="https://www.youtube.com/c/K1ethoang">
+  <a target="_blank" href="https://www.youtube.com/c/K1ethoang">
     <img alt="youtube views" title="YouTube views" src="https://img.shields.io/youtube/channel/views/UCK5Ey9NoSyo7PYBmM3OvjtQ?style=for-the-badge&logo=youtube&labelColor=C79600&color=E1AD0E"/></a> 
-  <a href="https://github.com/K1ethoang?tab=repositories&sort=stargazers">
+  <a target="_blank" href="https://github.com/K1ethoang?tab=repositories&sort=stargazers">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/K1ethoang?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-  <a href="https://github.com/K1ethoang?tab=followers">
+  <a target="_blank" href="https://github.com/K1ethoang?tab=followers">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/K1ethoang?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-  <a href="https://github.com/K1ethoang">
+  <a target="_blank" href="https://github.com/K1ethoang">
     <img alt="views" title="GitHub profile views" src="https://komarev.com/ghpvc/?username=K1ethoang&color=7C007C&labelColor=640464&style=for-the-badge&label=Visitors&&base=1000"/></a>
 </p>
 

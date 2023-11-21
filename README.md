@@ -86,6 +86,7 @@
 <summary><h2>⚡ Recent Activity</h2></summary>
 	
 <!--START_SECTION:activity-->
+1. 🗣 Commented on [#10366](https://github.com/microsoft/vscode-cpptools/issues/10366#issuecomment-1738429811) in [microsoft/vscode-cpptools](https://github.com/microsoft/vscode-cpptools)
 <!--END_SECTION:activity-->
 
 </details>

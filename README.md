@@ -23,7 +23,7 @@
 |:---:|:---|
 |<a href="https://github.com/K1ethoang"><img align="left" src="/resource/gif/cat.gif" alt="PC" heigth="160" width="160"/></a>|![](https://readme-jokes.vercel.app/api?hideBorder&theme=radical)|
 
-## 💫 About Me :
+## 💫 About Me
 <img src="/resource/gif/Developer.gif" align="right"/>
 
 - 😊 I’m currently learning **Backend** 
@@ -82,6 +82,16 @@
 </a>
 </details>
 
+<details open>
+<summary><h2>⚡ Recent Activity</h2></summary>
+	
+<!--START_SECTION:activity-->
+
+<!--END_SECTION:activity-->
+
+</details>
+
+
 <details>
   <summary><h2> 📊 Github Stats </h2></summary>
   
@@ -97,7 +107,7 @@
 </details>
 
 
-## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px"> Connect with me :
+## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px"> Connect with me
 <!-- gmail -->
 <a target="_blank" href="mailto:kiethoang101.dev@gmail.com">
  <img align="center" src="https://raw.githubusercontent.com/SatYu26/SatYu26/master/Assets/Gmail.svg" alt="K1ethoang's gmail" height="30" width="40"/></a>

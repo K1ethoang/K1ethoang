@@ -82,7 +82,7 @@
 </a>
 </details>
 
-<details open>
+<details>
 <summary><h2>⚡ Recent Activity</h2></summary>
 	
 <!--START_SECTION:activity-->
@@ -91,6 +91,13 @@
 
 </details>
 
+<details open>
+<summary><h2>😻 Development Stats</h2></summary>
+	
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+</details>
 
 <details>
   <summary><h2> 📊 Github Stats </h2></summary>

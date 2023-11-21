@@ -38,6 +38,9 @@
     <MyQuote content="Ngày hôm nay là phiên bản tốt hơn của hôm qua" />
     ```
 
+### 🎧 Spotify Playing
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=pits56ip4lozpoo0xzvyti5w2&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=false)](https://spotify-github-profile.vercel.app/api/view?uid=pits56ip4lozpoo0xzvyti5w2&redirect=true)
+
 ### 💻 Languages and Tools:
 
 <div align="center">

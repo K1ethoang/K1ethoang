@@ -39,7 +39,7 @@
     ```
 
 ### 🎧 Spotify Playing
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=pits56ip4lozpoo0xzvyti5w2&cover_image=true&theme=natemoo-re&show_offline=false&interchange=false)](https://spotify-github-profile.vercel.app/api/view?uid=pits56ip4lozpoo0xzvyti5w2&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=pits56ip4lozpoo0xzvyti5w2&cover_image=true&theme=natemoo-re&show_offline=false&interchange=false)](https://github.com/K1ethoang)
 
 ### 💻 Languages and Tools:
 

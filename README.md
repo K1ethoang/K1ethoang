@@ -23,7 +23,7 @@
 |:---:|:---|
 |<a href="https://github.com/K1ethoang"><img align="left" src="/resource/gif/cat.gif" alt="PC" heigth="160" width="160"/></a>|![](https://readme-jokes.vercel.app/api?hideBorder&theme=radical)|
 
-## 💫 About Me
+### 💫 About Me
 <img src="/resource/gif/Developer.gif" align="right"/>
 
 - 😊 I’m currently learning **Backend** 
@@ -38,7 +38,7 @@
     <MyQuote content="Ngày hôm nay là phiên bản tốt hơn của hôm qua" />
     ```
 
-## 💻 Languages and Tools:
+### 💻 Languages and Tools:
 
 <div align="center">
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/192106073-90fffafe-3562-4ff9-a37e-c77a2da0ff58.png" alt="C++" title="C++"/></code>
@@ -60,7 +60,7 @@
 </div>
 
 <details open>
-  <summary><h2> 📺 Lastest YouTube Video </h2></summary>
+  <summary><h3> 📺 Lastest YouTube Video </h3></summary>
 	
 <!-- BEGIN YOUTUBE-CARDS -->
 [![Tuỳ chỉnh giao diện Terminal với Oh My Posh | K1ethoang](https://ytcards.demolab.com/?id=xDZC5iYg_uU&title=Tu%E1%BB%B3+ch%E1%BB%89nh+giao+di%E1%BB%87n+Terminal+v%E1%BB%9Bi+Oh+My+Posh+%7C+K1ethoang&lang=en&timestamp=1692622855&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5 "Tuỳ chỉnh giao diện Terminal với Oh My Posh | K1ethoang")](https://www.youtube.com/watch?v=xDZC5iYg_uU)
@@ -72,7 +72,7 @@
 </details>
 
 <details>
-<summary><h2>👨‍💻 Competitive Programming Stats</h2></summary>
+<summary><h3>👨‍💻 Competitive Programming Stats</h3></summary>
 <a target="_blank" href="https://codeforces.com/profile/K1ethoang">
 <img src="https://raw.githubusercontent.com/K1ethoang/cf-stats/main/output/light_card.svg#gh-dark-mode-only" />
 <!-- <img src="https://raw.githubusercontent.com/K1ethoang/cf-stats/main/output/light_card.svg" /> -->
@@ -83,7 +83,7 @@
 </details>
 
 <details>
-<summary><h2>⚡ Recent Activity</h2></summary>
+<summary><h3>⚡ Recent Activity</h3></summary>
 	
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#10366](https://github.com/microsoft/vscode-cpptools/issues/10366#issuecomment-1738429811) in [microsoft/vscode-cpptools](https://github.com/microsoft/vscode-cpptools)
@@ -92,7 +92,7 @@
 </details>
 
 <details open>
-<summary><h2>😻 Development Stats</h2></summary>
+<summary><h3>😻 Development Stats</h3></summary>
 	
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
@@ -100,7 +100,7 @@
 </details>
 
 <details>
-  <summary><h2> 📊 Github Stats </h2></summary>
+  <summary><h3> 📊 Github Stats </h3></summary>
   
   [![stats](https://github-readme-stats.vercel.app/api?username=K1ethoang&layout=compact&theme=radical&hide_border=true&include_all_commits=false&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)[![stats](https://github-readme-stats.vercel.app/api/top-langs/?username=K1ethoang&langs_count=10&layout=compact&theme=radical&hide_border=true&hide_langs_below=1)](https://github.com/anuraghazra/github-readme-stats)
   <br>
@@ -114,7 +114,7 @@
 </details>
 
 
-## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px"> Connect with me
+### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px"> Connect with me
 <!-- gmail -->
 <a target="_blank" href="mailto:kiethoang101.dev@gmail.com">
  <img align="center" src="https://raw.githubusercontent.com/SatYu26/SatYu26/master/Assets/Gmail.svg" alt="K1ethoang's gmail" height="30" width="40"/></a>

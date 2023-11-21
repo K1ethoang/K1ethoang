@@ -37,13 +37,17 @@
 - 🌏 I'm living now in **Dong Nai Province, Viet Nam**
 
 - 📫 How to reach me **kiethoang101.dev@gmail.com**
-    
-    ``` reactjs
-    <MyQuote content="Ngày hôm nay là phiên bản tốt hơn của hôm qua" />
-    ```
+
+```java
+public class Main {
+    public static void main(String[] args) {
+        K1ethoang.quotes.say("Ngày hôm nay tốt hơn ngày hôm qua");
+    }
+}
+```
 
 <div align="center">
-	
+
 |**🌑 Today's Moon**|**🎧 Spotify Playing**|
 |:---:|:---:|
 |[![Moon.svg](https://moon-svg.minung.dev/moon.svg?theme=ray&rotate=0)](https://moon-svg.minung.dev) [![Moon.svg](https://moon-svg.minung.dev/moon.svg?theme=basic&rotate=0)](https://moon-svg.minung.dev)|[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=pits56ip4lozpoo0xzvyti5w2&cover_image=true&theme=natemoo-re&show_offline=false&interchange=false&)](https://open.spotify.com/user/pits56ip4lozpoo0xzvyti5w2)|

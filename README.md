@@ -44,7 +44,8 @@
 ```java
 public class Main {
     public static void main(String[] args) {
-        K1ethoang.quotes.say("Ngày hôm nay tốt hơn ngày hôm qua");
+        K1ethoang.say.quotes("Ngày hôm nay tốt hơn ngày hôm qua");
+	K1ethoang.say.quotes("Càng học càng thấy mình ngu");
     }
 }
 ```

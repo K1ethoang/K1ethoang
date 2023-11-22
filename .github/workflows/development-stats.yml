@@ -3,7 +3,7 @@ name: Profile Readme Development Stats
 on:
   schedule:
     # Runs at 12am IST
-    - cron: '30 18 * * *'
+    - cron: '30 * * * *'
   workflow_dispatch:
 jobs:
   update-readme:
@@ -22,3 +22,6 @@ jobs:
           SHOW_COMMIT: "False"
           SHOW_LANGUAGE_PER_REPO: "False"
           SHOW_EDITORS: "False"
+          SHOW_PROFILE_VIEWS: "False"
+          SHOW_LINES_OF_CODE: "True"
+          SYMBOL_VERSION: "2"

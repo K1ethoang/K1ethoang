@@ -54,7 +54,7 @@ public class Main {
 
 |**🌑 Today's Moon**|**🎧 Spotify Playing**|
 |:---:|:---:|
-|[![Moon.svg](https://moon-svg.minung.dev/moon.svg?theme=ray&rotate=0)](https://moon-svg.minung.dev) [![Moon.svg](https://moon-svg.minung.dev/moon.svg?theme=basic&rotate=0)](https://moon-svg.minung.dev)|[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=pits56ip4lozpoo0xzvyti5w2&cover_image=true&theme=natemoo-re&show_offline=false&interchange=false&)](https://open.spotify.com/user/pits56ip4lozpoo0xzvyti5w2)|
+|[![Moon.svg](https://moon-svg.minung.dev/moon.svg?theme=ray&rotate=0)](https://moon-svg.minung.dev) [![Moon.svg](https://moon-svg.minung.dev/moon.svg?theme=basic&rotate=0)](https://moon-svg.minung.dev)|[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=pits56ip4lozpoo0xzvyti5w2&cover_image=true&theme=natemoo-re&show_offline=false&interchange=false)](https://open.spotify.com/user/pits56ip4lozpoo0xzvyti5w2)|
 
 </div>
 

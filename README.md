@@ -108,7 +108,7 @@ public class Main {
 <summary><h2>⚡ Recent Activity</h2></summary>
 	
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#10366](https://github.com/microsoft/vscode-cpptools/issues/10366#issuecomment-1738429811) in [microsoft/vscode-cpptools](https://github.com/microsoft/vscode-cpptools)
+1. 🎉 Merged PR [#3](https://github.com/K1ethoang/Learn_NodeJS/pull/3) in [K1ethoang/Learn_NodeJS](https://github.com/K1ethoang/Learn_NodeJS)
 <!--END_SECTION:activity-->
 
 </details>

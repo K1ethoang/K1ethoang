@@ -117,6 +117,8 @@ public class Main {
 <summary><h2>😻 Development Stats</h2></summary>
 	
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C135%20hrs%2030%20mins-blue)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-12.7%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
@@ -145,7 +147,7 @@ Sunday                   231 commits         ⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀�
 
 
 
- Last Updated on 06/12/2023 17:37:27 UTC
+ Last Updated on 06/12/2023 18:38:49 UTC
 <!--END_SECTION:waka-->
 
 </details>

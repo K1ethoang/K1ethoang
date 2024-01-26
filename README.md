@@ -109,7 +109,7 @@ public class Main {
 <summary><h2>⚡ Recent Activity</h2></summary>
 	
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#16](https://github.com/K1ethoang/ASP.NET-Core-Website-QuanLyTiecCuoiLanHue/pull/16) in [K1ethoang/ASP.NET-Core-Website-QuanLyTiecCuoiLanHue](https://github.com/K1ethoang/ASP.NET-Core-Website-QuanLyTiecCuoiLanHue)
+1. ❗ Opened issue [#5](https://github.com/DevLeonardoCommunity/community/issues/5) in [DevLeonardoCommunity/community](https://github.com/DevLeonardoCommunity/community)
 <!--END_SECTION:activity-->
 
 </details>

@@ -118,7 +118,7 @@ public class Main {
 
 </details>
 
-<details open>
+<details>
 <summary><h2>😻 Development Stats</h2></summary>
 	
 <!--START_SECTION:waka-->

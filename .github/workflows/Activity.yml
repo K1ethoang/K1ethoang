@@ -18,5 +18,4 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           GH_USERNAME: K1ethoang
-          MAX_LINES: 10
           COMMIT_NAME: GitHub Activity Readme

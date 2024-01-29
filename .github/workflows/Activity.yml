@@ -18,4 +18,5 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           GH_USERNAME: K1ethoang
-          COMMIT_NAME: GitHub Activity Readme
+          COMMIT_NAME: "Updated README with recent activity"
+          MAX_LINES: 10

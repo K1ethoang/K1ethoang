@@ -2,7 +2,7 @@ name: GitHub Readme Activity
 on:
   schedule:
     # Runs every hour, on the hour
-    - cron: "0 * * * *"
+    - cron: "*/30 * * * *"
   workflow_dispatch:
 jobs:
   build:
@@ -18,3 +18,5 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           GH_USERNAME: K1ethoang
+          MAX_LINES: 10
+          COMMIT_NAME: GitHub Activity Readme

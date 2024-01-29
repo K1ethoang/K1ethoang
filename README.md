@@ -109,7 +109,7 @@ public class Main {
 <summary><h2>⚡ Recent Activity</h2></summary>
 	
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#10](https://github.com/DevLeonardoCommunity/billsplit/issues/10#issuecomment-1913855756) in [DevLeonardoCommunity/billsplit](https://github.com/DevLeonardoCommunity/billsplit)
+1. 💪 Opened PR [#99](https://github.com/DevLeonardoCommunity/github-stats/pull/99) in [DevLeonardoCommunity/github-stats](https://github.com/DevLeonardoCommunity/github-stats)
 <!--END_SECTION:activity-->
 
 </details>

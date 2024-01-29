@@ -109,7 +109,7 @@ public class Main {
 <summary><h2>⚡ Recent Activity</h2></summary>
 	
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#5](https://github.com/DevLeonardoCommunity/community/issues/5) in [DevLeonardoCommunity/community](https://github.com/DevLeonardoCommunity/community)
+1. ❗ Opened issue [#17](https://github.com/DevLeonardoCommunity/billsplit/issues/17) in [DevLeonardoCommunity/billsplit](https://github.com/DevLeonardoCommunity/billsplit)
 <!--END_SECTION:activity-->
 
 </details>

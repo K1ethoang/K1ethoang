@@ -109,11 +109,6 @@ public class Main {
 <summary><h2>⚡ Recent Activity</h2></summary>
 	
 <!--START_SECTION:activity-->
-
-
-
-
-
 <!--END_SECTION:activity-->
 
 </details>

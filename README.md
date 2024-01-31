@@ -109,12 +109,12 @@ public class Main {
 <summary><h2>⚡ Recent Activity</h2></summary>
 	
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#18](https://github.com/DevLeonardoCommunity/billsplit/issues/18#issuecomment-1917341923) in [DevLeonardoCommunity/billsplit](https://github.com/DevLeonardoCommunity/billsplit)
-2. 🗣 Commented on [#99](https://github.com/DevLeonardoCommunity/github-stats/pull/99#issuecomment-1914586527) in [DevLeonardoCommunity/github-stats](https://github.com/DevLeonardoCommunity/github-stats)
-3. ❗ Opened issue [#18](https://github.com/DevLeonardoCommunity/billsplit/issues/18) in [DevLeonardoCommunity/billsplit](https://github.com/DevLeonardoCommunity/billsplit)
-4. ❗ Opened issue [#100](https://github.com/DevLeonardoCommunity/github-stats/issues/100) in [DevLeonardoCommunity/github-stats](https://github.com/DevLeonardoCommunity/github-stats)
-5. 💪 Opened PR [#99](https://github.com/DevLeonardoCommunity/github-stats/pull/99) in [DevLeonardoCommunity/github-stats](https://github.com/DevLeonardoCommunity/github-stats)
-6. ❗ Opened issue [#98](https://github.com/DevLeonardoCommunity/github-stats/issues/98) in [DevLeonardoCommunity/github-stats](https://github.com/DevLeonardoCommunity/github-stats)
+1. ❗ Opened issue [#8644](https://github.com/EddieHubCommunity/support/issues/8644) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
+2. 🗣 Commented on [#18](https://github.com/DevLeonardoCommunity/billsplit/issues/18#issuecomment-1917341923) in [DevLeonardoCommunity/billsplit](https://github.com/DevLeonardoCommunity/billsplit)
+3. 🗣 Commented on [#99](https://github.com/DevLeonardoCommunity/github-stats/pull/99#issuecomment-1914586527) in [DevLeonardoCommunity/github-stats](https://github.com/DevLeonardoCommunity/github-stats)
+4. ❗ Opened issue [#18](https://github.com/DevLeonardoCommunity/billsplit/issues/18) in [DevLeonardoCommunity/billsplit](https://github.com/DevLeonardoCommunity/billsplit)
+5. ❗ Opened issue [#100](https://github.com/DevLeonardoCommunity/github-stats/issues/100) in [DevLeonardoCommunity/github-stats](https://github.com/DevLeonardoCommunity/github-stats)
+6. 💪 Opened PR [#99](https://github.com/DevLeonardoCommunity/github-stats/pull/99) in [DevLeonardoCommunity/github-stats](https://github.com/DevLeonardoCommunity/github-stats)
 <!--END_SECTION:activity-->
 
 </details>

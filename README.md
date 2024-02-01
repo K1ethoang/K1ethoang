@@ -109,12 +109,12 @@ public class Main {
 <summary><h2>⚡ Recent Activity</h2></summary>
 	
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#20](https://github.com/DevLeonardoCommunity/billsplit/issues/20) in [DevLeonardoCommunity/billsplit](https://github.com/DevLeonardoCommunity/billsplit)
-2. 🔓 Reopened issue [#20](https://github.com/DevLeonardoCommunity/billsplit/issues/20) in [DevLeonardoCommunity/billsplit](https://github.com/DevLeonardoCommunity/billsplit)
-3. 🔒 Closed issue [#20](https://github.com/DevLeonardoCommunity/billsplit/issues/20) in [DevLeonardoCommunity/billsplit](https://github.com/DevLeonardoCommunity/billsplit)
-4. 🗣 Commented on [#20](https://github.com/DevLeonardoCommunity/billsplit/issues/20#issuecomment-1921515203) in [DevLeonardoCommunity/billsplit](https://github.com/DevLeonardoCommunity/billsplit)
-5. ❗ Opened issue [#20](https://github.com/DevLeonardoCommunity/billsplit/issues/20) in [DevLeonardoCommunity/billsplit](https://github.com/DevLeonardoCommunity/billsplit)
-6. 🗣 Commented on [#18](https://github.com/DevLeonardoCommunity/billsplit/issues/18#issuecomment-1921041164) in [DevLeonardoCommunity/billsplit](https://github.com/DevLeonardoCommunity/billsplit)
+1. 🗣 Commented on [#18](https://github.com/DevLeonardoCommunity/billsplit/issues/18#issuecomment-1922035355) in [DevLeonardoCommunity/billsplit](https://github.com/DevLeonardoCommunity/billsplit)
+2. 🔒 Closed issue [#20](https://github.com/DevLeonardoCommunity/billsplit/issues/20) in [DevLeonardoCommunity/billsplit](https://github.com/DevLeonardoCommunity/billsplit)
+3. 🔓 Reopened issue [#20](https://github.com/DevLeonardoCommunity/billsplit/issues/20) in [DevLeonardoCommunity/billsplit](https://github.com/DevLeonardoCommunity/billsplit)
+4. 🔒 Closed issue [#20](https://github.com/DevLeonardoCommunity/billsplit/issues/20) in [DevLeonardoCommunity/billsplit](https://github.com/DevLeonardoCommunity/billsplit)
+5. 🗣 Commented on [#20](https://github.com/DevLeonardoCommunity/billsplit/issues/20#issuecomment-1921515203) in [DevLeonardoCommunity/billsplit](https://github.com/DevLeonardoCommunity/billsplit)
+6. ❗ Opened issue [#20](https://github.com/DevLeonardoCommunity/billsplit/issues/20) in [DevLeonardoCommunity/billsplit](https://github.com/DevLeonardoCommunity/billsplit)
 <!--END_SECTION:activity-->
 
 </details>

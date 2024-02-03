@@ -109,12 +109,12 @@ public class Main {
 <summary><h2>⚡ Recent Activity</h2></summary>
 	
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#22](https://github.com/DevLeonardoCommunity/billsplit/pull/22#issuecomment-1923306023) in [DevLeonardoCommunity/billsplit](https://github.com/DevLeonardoCommunity/billsplit)
-2. 🗣 Commented on [#10](https://github.com/DevLeonardoCommunity/billsplit/issues/10#issuecomment-1922180397) in [DevLeonardoCommunity/billsplit](https://github.com/DevLeonardoCommunity/billsplit)
-3. 💪 Opened PR [#22](https://github.com/DevLeonardoCommunity/billsplit/pull/22) in [DevLeonardoCommunity/billsplit](https://github.com/DevLeonardoCommunity/billsplit)
-4. 🗣 Commented on [#18](https://github.com/DevLeonardoCommunity/billsplit/issues/18#issuecomment-1922054765) in [DevLeonardoCommunity/billsplit](https://github.com/DevLeonardoCommunity/billsplit)
-5. 💪 Opened PR [#21](https://github.com/DevLeonardoCommunity/billsplit/pull/21) in [DevLeonardoCommunity/billsplit](https://github.com/DevLeonardoCommunity/billsplit)
-6. 🗣 Commented on [#18](https://github.com/DevLeonardoCommunity/billsplit/issues/18#issuecomment-1922035355) in [DevLeonardoCommunity/billsplit](https://github.com/DevLeonardoCommunity/billsplit)
+1. 🗣 Commented on [#9](https://github.com/DevLeonardoCommunity/billsplit/issues/9#issuecomment-1925352474) in [DevLeonardoCommunity/billsplit](https://github.com/DevLeonardoCommunity/billsplit)
+2. 🗣 Commented on [#10](https://github.com/DevLeonardoCommunity/billsplit/issues/10#issuecomment-1925348533) in [DevLeonardoCommunity/billsplit](https://github.com/DevLeonardoCommunity/billsplit)
+3. 🗣 Commented on [#22](https://github.com/DevLeonardoCommunity/billsplit/pull/22#issuecomment-1923306023) in [DevLeonardoCommunity/billsplit](https://github.com/DevLeonardoCommunity/billsplit)
+4. 🗣 Commented on [#10](https://github.com/DevLeonardoCommunity/billsplit/issues/10#issuecomment-1922180397) in [DevLeonardoCommunity/billsplit](https://github.com/DevLeonardoCommunity/billsplit)
+5. 💪 Opened PR [#22](https://github.com/DevLeonardoCommunity/billsplit/pull/22) in [DevLeonardoCommunity/billsplit](https://github.com/DevLeonardoCommunity/billsplit)
+6. 🗣 Commented on [#18](https://github.com/DevLeonardoCommunity/billsplit/issues/18#issuecomment-1922054765) in [DevLeonardoCommunity/billsplit](https://github.com/DevLeonardoCommunity/billsplit)
 <!--END_SECTION:activity-->
 
 </details>

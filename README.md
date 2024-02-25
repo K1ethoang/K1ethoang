@@ -123,13 +123,13 @@ public class Main {
 <summary><h2>😻 Development Stats</h2></summary>
 	
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C235%20hrs%2047%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C230%20hrs%2042%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-23.2%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 270.2 kB Used in GitHub's Storage 
+> 📦 270.1 kB Used in GitHub's Storage 
  > 
 > 🏆 109 Contributions in the Year 2024
  > 
@@ -153,7 +153,7 @@ Sunday                   267 commits         ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀�
 
 
 
- Last Updated on 25/02/2024 16:39:10 UTC
+ Last Updated on 25/02/2024 17:37:32 UTC
 <!--END_SECTION:waka-->
 
 </details>

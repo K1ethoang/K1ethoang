@@ -132,8 +132,6 @@ public class Main {
 
 > 📦 283.9 kB Used in GitHub's Storage 
  > 
-> 🏆 135 Contributions in the Year 2024
- > 
 > 💼 Opted to Hire
  > 
 > 📜 40 Public Repositories 
@@ -154,7 +152,7 @@ Sunday                   276 commits         ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀�
 
 
 
- Last Updated on 22/03/2024 17:37:31 UTC
+ Last Updated on 22/03/2024 18:37:08 UTC
 <!--END_SECTION:waka-->
 
 </details>

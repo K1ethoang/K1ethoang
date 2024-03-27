@@ -110,7 +110,7 @@ public class Main {
 <summary><h2>⚡ Recent Activity</h2></summary>
 	
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4](https://github.com/K1ethoang/Learn_NodeJS/pull/4) in [K1ethoang/Learn_NodeJS](https://github.com/K1ethoang/Learn_NodeJS)
+1. 💪 Opened PR [#1](https://github.com/Bie-NHD/API_1_FE/pull/1) in [Bie-NHD/API_1_FE](https://github.com/Bie-NHD/API_1_FE)
 2. 🗣 Commented on [#11](https://github.com/DevLeonardoCommunity/billsplit/issues/11#issuecomment-1968382517) in [DevLeonardoCommunity/billsplit](https://github.com/DevLeonardoCommunity/billsplit)
 3. 💪 Opened PR [#28](https://github.com/DevLeonardoCommunity/billsplit/pull/28) in [DevLeonardoCommunity/billsplit](https://github.com/DevLeonardoCommunity/billsplit)
 4. 🗣 Commented on [#22](https://github.com/DevLeonardoCommunity/billsplit/pull/22#issuecomment-1923306023) in [DevLeonardoCommunity/billsplit](https://github.com/DevLeonardoCommunity/billsplit)

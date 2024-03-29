@@ -110,8 +110,8 @@ public class Main {
 <summary><h2>⚡ Recent Activity</h2></summary>
 	
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/Bie-NHD/API_1_FE/pull/1) in [Bie-NHD/API_1_FE](https://github.com/Bie-NHD/API_1_FE)
-2. 🗣 Commented on [#11](https://github.com/DevLeonardoCommunity/billsplit/issues/11#issuecomment-1968382517) in [DevLeonardoCommunity/billsplit](https://github.com/DevLeonardoCommunity/billsplit)
+1. 🗣 Commented on [#7](https://github.com/duthanhduoc/duthanhduoc.com-page/issues/7#issuecomment-2027465102) in [duthanhduoc/duthanhduoc.com-page](https://github.com/duthanhduoc/duthanhduoc.com-page)
+2. 💪 Opened PR [#1](https://github.com/Bie-NHD/API_1_FE/pull/1) in [Bie-NHD/API_1_FE](https://github.com/Bie-NHD/API_1_FE)
 3. 💪 Opened PR [#28](https://github.com/DevLeonardoCommunity/billsplit/pull/28) in [DevLeonardoCommunity/billsplit](https://github.com/DevLeonardoCommunity/billsplit)
 4. 🗣 Commented on [#22](https://github.com/DevLeonardoCommunity/billsplit/pull/22#issuecomment-1923306023) in [DevLeonardoCommunity/billsplit](https://github.com/DevLeonardoCommunity/billsplit)
 5. 🗣 Commented on [#10](https://github.com/DevLeonardoCommunity/billsplit/issues/10#issuecomment-1922180397) in [DevLeonardoCommunity/billsplit](https://github.com/DevLeonardoCommunity/billsplit)

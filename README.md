@@ -110,12 +110,12 @@ public class Main {
 <summary><h2>⚡ Recent Activity</h2></summary>
 	
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/K1ethoang/Learn_Web/pull/1) in [K1ethoang/Learn_Web](https://github.com/K1ethoang/Learn_Web)
-2. 🎉 Merged PR [#2](https://github.com/K1ethoang/Learn_Web/pull/2) in [K1ethoang/Learn_Web](https://github.com/K1ethoang/Learn_Web)
-3. 🗣 Commented on [#7](https://github.com/duthanhduoc/duthanhduoc.com-page/issues/7#issuecomment-2027488085) in [duthanhduoc/duthanhduoc.com-page](https://github.com/duthanhduoc/duthanhduoc.com-page)
-4. 🗣 Commented on [#7](https://github.com/duthanhduoc/duthanhduoc.com-page/issues/7#issuecomment-2027465102) in [duthanhduoc/duthanhduoc.com-page](https://github.com/duthanhduoc/duthanhduoc.com-page)
-5. 🗣 Commented on [#10](https://github.com/DevLeonardoCommunity/billsplit/issues/10#issuecomment-1922180397) in [DevLeonardoCommunity/billsplit](https://github.com/DevLeonardoCommunity/billsplit)
-6. 💪 Opened PR [#22](https://github.com/DevLeonardoCommunity/billsplit/pull/22) in [DevLeonardoCommunity/billsplit](https://github.com/DevLeonardoCommunity/billsplit)
+1. ❌ Closed PR [#6](https://github.com/K1ethoang/Learn_Web/pull/6) in [K1ethoang/Learn_Web](https://github.com/K1ethoang/Learn_Web)
+2. 🎉 Merged PR [#5](https://github.com/K1ethoang/Learn_Web/pull/5) in [K1ethoang/Learn_Web](https://github.com/K1ethoang/Learn_Web)
+3. 🎉 Merged PR [#3](https://github.com/K1ethoang/Learn_Web/pull/3) in [K1ethoang/Learn_Web](https://github.com/K1ethoang/Learn_Web)
+4. 🎉 Merged PR [#4](https://github.com/K1ethoang/Learn_Web/pull/4) in [K1ethoang/Learn_Web](https://github.com/K1ethoang/Learn_Web)
+5. 🎉 Merged PR [#1](https://github.com/K1ethoang/Learn_Web/pull/1) in [K1ethoang/Learn_Web](https://github.com/K1ethoang/Learn_Web)
+6. 🎉 Merged PR [#2](https://github.com/K1ethoang/Learn_Web/pull/2) in [K1ethoang/Learn_Web](https://github.com/K1ethoang/Learn_Web)
 <!--END_SECTION:activity-->
 
 </details>

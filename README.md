@@ -110,10 +110,10 @@ public class Main {
 <summary><h2>⚡ Recent Activity</h2></summary>
 	
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#7](https://github.com/duthanhduoc/duthanhduoc.com-page/issues/7#issuecomment-2027488085) in [duthanhduoc/duthanhduoc.com-page](https://github.com/duthanhduoc/duthanhduoc.com-page)
-2. 🗣 Commented on [#7](https://github.com/duthanhduoc/duthanhduoc.com-page/issues/7#issuecomment-2027465102) in [duthanhduoc/duthanhduoc.com-page](https://github.com/duthanhduoc/duthanhduoc.com-page)
-3. 💪 Opened PR [#1](https://github.com/Bie-NHD/API_1_FE/pull/1) in [Bie-NHD/API_1_FE](https://github.com/Bie-NHD/API_1_FE)
-4. 🗣 Commented on [#22](https://github.com/DevLeonardoCommunity/billsplit/pull/22#issuecomment-1923306023) in [DevLeonardoCommunity/billsplit](https://github.com/DevLeonardoCommunity/billsplit)
+1. 🎉 Merged PR [#1](https://github.com/K1ethoang/Learn_Web/pull/1) in [K1ethoang/Learn_Web](https://github.com/K1ethoang/Learn_Web)
+2. 🎉 Merged PR [#2](https://github.com/K1ethoang/Learn_Web/pull/2) in [K1ethoang/Learn_Web](https://github.com/K1ethoang/Learn_Web)
+3. 🗣 Commented on [#7](https://github.com/duthanhduoc/duthanhduoc.com-page/issues/7#issuecomment-2027488085) in [duthanhduoc/duthanhduoc.com-page](https://github.com/duthanhduoc/duthanhduoc.com-page)
+4. 🗣 Commented on [#7](https://github.com/duthanhduoc/duthanhduoc.com-page/issues/7#issuecomment-2027465102) in [duthanhduoc/duthanhduoc.com-page](https://github.com/duthanhduoc/duthanhduoc.com-page)
 5. 🗣 Commented on [#10](https://github.com/DevLeonardoCommunity/billsplit/issues/10#issuecomment-1922180397) in [DevLeonardoCommunity/billsplit](https://github.com/DevLeonardoCommunity/billsplit)
 6. 💪 Opened PR [#22](https://github.com/DevLeonardoCommunity/billsplit/pull/22) in [DevLeonardoCommunity/billsplit](https://github.com/DevLeonardoCommunity/billsplit)
 <!--END_SECTION:activity-->

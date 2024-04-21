@@ -123,10 +123,10 @@ public class Main {
 <summary><h2>⚡ Recent Activity</h2></summary>
 	
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#8](https://github.com/K1ethoang/Rent-data-management/pull/8) in [K1ethoang/Rent-data-management](https://github.com/K1ethoang/Rent-data-management)
-2. 💪 Opened PR [#8](https://github.com/K1ethoang/Rent-data-management/pull/8) in [K1ethoang/Rent-data-management](https://github.com/K1ethoang/Rent-data-management)
-3. 🎉 Merged PR [#8](https://github.com/K1ethoang/Learn_Web/pull/8) in [K1ethoang/Learn_Web](https://github.com/K1ethoang/Learn_Web)
-4. 🎉 Merged PR [#7](https://github.com/K1ethoang/Learn_Web/pull/7) in [K1ethoang/Learn_Web](https://github.com/K1ethoang/Learn_Web)
+1. 🎉 Merged PR [#9](https://github.com/K1ethoang/Rent-data-management/pull/9) in [K1ethoang/Rent-data-management](https://github.com/K1ethoang/Rent-data-management)
+2. 💪 Opened PR [#9](https://github.com/K1ethoang/Rent-data-management/pull/9) in [K1ethoang/Rent-data-management](https://github.com/K1ethoang/Rent-data-management)
+3. 🎉 Merged PR [#8](https://github.com/K1ethoang/Rent-data-management/pull/8) in [K1ethoang/Rent-data-management](https://github.com/K1ethoang/Rent-data-management)
+4. 💪 Opened PR [#8](https://github.com/K1ethoang/Rent-data-management/pull/8) in [K1ethoang/Rent-data-management](https://github.com/K1ethoang/Rent-data-management)
 5. ❌ Closed PR [#6](https://github.com/K1ethoang/Learn_Web/pull/6) in [K1ethoang/Learn_Web](https://github.com/K1ethoang/Learn_Web)
 6. 🎉 Merged PR [#5](https://github.com/K1ethoang/Learn_Web/pull/5) in [K1ethoang/Learn_Web](https://github.com/K1ethoang/Learn_Web)
 <!--END_SECTION:activity-->

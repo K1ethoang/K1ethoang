@@ -14,11 +14,11 @@
   <a target="_blank" href="https://www.youtube.com/c/K1ethoang">
     <img alt="youtube views" title="YouTube views" src="https://img.shields.io/youtube/channel/views/UCK5Ey9NoSyo7PYBmM3OvjtQ?style=for-the-badge&logo=youtube&labelColor=C79600&color=E1AD0E"/></a> 
   <a target="_blank" href="https://github.com/K1ethoang?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/K1ethoang?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/k1ethoang?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
   <a target="_blank" href="https://github.com/K1ethoang?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/K1ethoang?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/k1ethoang?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
   <a target="_blank" href="https://github.com/K1ethoang">
-    <img alt="views" title="GitHub profile views" src="https://komarev.com/ghpvc/?username=K1ethoang&color=7C007C&labelColor=640464&style=for-the-badge&label=Visitors&&base=1000"/></a>
+    <img alt="views" title="GitHub profile views" src="https://komarev.com/ghpvc/?username=k1ethoang&color=7C007C&labelColor=640464&style=for-the-badge&label=Visitors&&base=1000"/></a>
 </p>
 
 <!--

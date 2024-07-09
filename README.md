@@ -32,7 +32,7 @@
 
 - 😊 I’m currently learning **Backend** 
 
-- 🌱 I'm 3rd-year student at **University of Transport and Communications campus in HCMC**
+- 🌱 I'm 4th-year student at **University of Transport and Communications campus in HCMC**
 
 - 🌏 I'm living now in **Dong Nai Province, Viet Nam**
 
@@ -52,9 +52,9 @@ public class Main {
 
 <div align="center">
 
-|**🌑 Today's Moon**|**🎧 Spotify Playing**|
-|:---:|:---:|
-|[![Moon.svg](https://moon-svg.minung.dev/moon.svg?theme=ray&rotate=0)](https://moon-svg.minung.dev) [![Moon.svg](https://moon-svg.minung.dev/moon.svg?theme=basic&rotate=0)](https://moon-svg.minung.dev)|[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=pits56ip4lozpoo0xzvyti5w2&cover_image=true&theme=natemoo-re&show_offline=false&interchange=false)](https://open.spotify.com/user/pits56ip4lozpoo0xzvyti5w2)|
+**🌑 Today's Moon**
+
+[![Moon.svg](https://moon-svg.minung.dev/moon.svg?theme=ray&rotate=0)](https://moon-svg.minung.dev) [![Moon.svg](https://moon-svg.minung.dev/moon.svg?theme=basic&rotate=0)](https://moon-svg.minung.dev)
 
 </div>
 
@@ -167,7 +167,7 @@ Sunday                   288 commits         ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀�
 
 
 
- Last Updated on 09/07/2024 05:38:31 UTC
+ Last Updated on 09/07/2024 04:39:19 UTC
 <!--END_SECTION:waka-->
 
 </details>

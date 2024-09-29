@@ -123,7 +123,7 @@ public class Main {
 <summary><h2>⚡ Recent Activity</h2></summary>
 	
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#28](https://github.com/DevLeonardoCommunity/billsplit/pull/28#issuecomment-2111715413) in [DevLeonardoCommunity/billsplit](https://github.com/DevLeonardoCommunity/billsplit)
+1. 🎉 Merged PR [#1](https://github.com/K1ethoang/Learn-React/pull/1) in [K1ethoang/Learn-React](https://github.com/K1ethoang/Learn-React)
 2. 🎉 Merged PR [#12](https://github.com/K1ethoang/Rent-data-management/pull/12) in [K1ethoang/Rent-data-management](https://github.com/K1ethoang/Rent-data-management)
 3. 💪 Opened PR [#12](https://github.com/K1ethoang/Rent-data-management/pull/12) in [K1ethoang/Rent-data-management](https://github.com/K1ethoang/Rent-data-management)
 4. 🎉 Merged PR [#11](https://github.com/K1ethoang/Rent-data-management/pull/11) in [K1ethoang/Rent-data-management](https://github.com/K1ethoang/Rent-data-management)

@@ -125,7 +125,7 @@ public class Main {
 <summary><h2>⚡ Recent Activity</h2></summary>
 	
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/K1ethoang/BE_Learn-Vocabulary_KDP/pull/2) in [K1ethoang/BE_Learn-Vocabulary_KDP](https://github.com/K1ethoang/BE_Learn-Vocabulary_KDP)
+1. 🚀 Published release [Release v1.0.0](https://github.com/K1ethoang/My-Achievements/releases/tag/v1.0.0) in [K1ethoang/My-Achievements](https://github.com/K1ethoang/My-Achievements)
 2. 💪 Opened PR [#2](https://github.com/K1ethoang/BE_Learn-Vocabulary_KDP/pull/2) in [K1ethoang/BE_Learn-Vocabulary_KDP](https://github.com/K1ethoang/BE_Learn-Vocabulary_KDP)
 3. 🎉 Merged PR [#1](https://github.com/K1ethoang/BE_Learn-Vocabulary_KDP/pull/1) in [K1ethoang/BE_Learn-Vocabulary_KDP](https://github.com/K1ethoang/BE_Learn-Vocabulary_KDP)
 4. 💪 Opened PR [#1](https://github.com/K1ethoang/BE_Learn-Vocabulary_KDP/pull/1) in [K1ethoang/BE_Learn-Vocabulary_KDP](https://github.com/K1ethoang/BE_Learn-Vocabulary_KDP)

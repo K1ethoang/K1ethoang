@@ -1,8 +1,8 @@
 name: GitHub Readme Activity
 on:
   schedule:
-    # Runs every 30 minutes
-    - cron: "*/30 * * * *"
+    # Runs every hour, on the hour
+    - cron: "0 * * * *"
   workflow_dispatch:
 jobs:
   build:

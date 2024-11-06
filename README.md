@@ -125,12 +125,12 @@ public class Main {
 <summary><h2>⚡ Recent Activity</h2></summary>
 	
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/K1ethoang/BE_Learn-Vocabulary_KDP/pull/3) in [K1ethoang/BE_Learn-Vocabulary_KDP](https://github.com/K1ethoang/BE_Learn-Vocabulary_KDP)
-2. 💪 Opened PR [#3](https://github.com/K1ethoang/BE_Learn-Vocabulary_KDP/pull/3) in [K1ethoang/BE_Learn-Vocabulary_KDP](https://github.com/K1ethoang/BE_Learn-Vocabulary_KDP)
-3. 🚀 Published release [Release v1.0.0](https://github.com/K1ethoang/My-Achievements/releases/tag/v1.0.0) in [K1ethoang/My-Achievements](https://github.com/K1ethoang/My-Achievements)
-4. 💪 Opened PR [#1](https://github.com/K1ethoang/BE_Learn-Vocabulary_KDP/pull/1) in [K1ethoang/BE_Learn-Vocabulary_KDP](https://github.com/K1ethoang/BE_Learn-Vocabulary_KDP)
-5. 💪 Opened PR [#11](https://github.com/K1ethoang/Rent-data-management/pull/11) in [K1ethoang/Rent-data-management](https://github.com/K1ethoang/Rent-data-management)
-6. 🎉 Merged PR [#5](https://github.com/K1ethoang/Learn_Web/pull/5) in [K1ethoang/Learn_Web](https://github.com/K1ethoang/Learn_Web)
+1. 🎉 Merged PR [#5](https://github.com/K1ethoang/BE_Learn-Vocabulary_KDP/pull/5) in [K1ethoang/BE_Learn-Vocabulary_KDP](https://github.com/K1ethoang/BE_Learn-Vocabulary_KDP)
+2. 💪 Opened PR [#5](https://github.com/K1ethoang/BE_Learn-Vocabulary_KDP/pull/5) in [K1ethoang/BE_Learn-Vocabulary_KDP](https://github.com/K1ethoang/BE_Learn-Vocabulary_KDP)
+3. 🎉 Merged PR [#4](https://github.com/K1ethoang/BE_Learn-Vocabulary_KDP/pull/4) in [K1ethoang/BE_Learn-Vocabulary_KDP](https://github.com/K1ethoang/BE_Learn-Vocabulary_KDP)
+4. 💪 Opened PR [#4](https://github.com/K1ethoang/BE_Learn-Vocabulary_KDP/pull/4) in [K1ethoang/BE_Learn-Vocabulary_KDP](https://github.com/K1ethoang/BE_Learn-Vocabulary_KDP)
+5. 🎉 Merged PR [#3](https://github.com/K1ethoang/BE_Learn-Vocabulary_KDP/pull/3) in [K1ethoang/BE_Learn-Vocabulary_KDP](https://github.com/K1ethoang/BE_Learn-Vocabulary_KDP)
+6. 💪 Opened PR [#3](https://github.com/K1ethoang/BE_Learn-Vocabulary_KDP/pull/3) in [K1ethoang/BE_Learn-Vocabulary_KDP](https://github.com/K1ethoang/BE_Learn-Vocabulary_KDP)
 <!--END_SECTION:activity-->
 
 </details>

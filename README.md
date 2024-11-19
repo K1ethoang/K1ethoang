@@ -113,6 +113,7 @@ public class Main {
 <details>
 <summary><h2>👨‍💻 Competitive Programming Stats</h2></summary>
 ![LeetCode Stats](https://leetcard.jacoblin.cool/K1ethoang?theme=radical&font=Noto%20Sans%20Canadian%20Aboriginal&ext=activity)
+
 <br/>
 <a target="_blank" href="https://codeforces.com/profile/K1ethoang">
 <img src="https://raw.githubusercontent.com/K1ethoang/cf-stats/main/output/light_card.svg#gh-dark-mode-only" />

@@ -151,6 +151,8 @@ public class Main {
 
 > 📦 391.7 kB Used in GitHub's Storage 
  > 
+> 🏆 253 Contributions in the Year 2024
+ > 
 > 💼 Opted to Hire
  > 
 > 📜 46 Public Repositories 
@@ -184,7 +186,7 @@ VS Code                  4 hrs 26 mins       ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿�
 ![Lines of Code chart](https://raw.githubusercontent.com/K1ethoang/K1ethoang/main/assets/bar_graph.png)
 
 
- Last Updated on 20/11/2024 09:15:48 UTC
+ Last Updated on 20/11/2024 09:19:51 UTC
 <!--END_SECTION:waka-->
 
 </details>

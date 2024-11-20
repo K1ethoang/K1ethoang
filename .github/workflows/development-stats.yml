@@ -2,8 +2,8 @@ name: Profile Readme Development Stats
 
 on:
   schedule:
-    # Runs every hour, on the hour
-    - cron: "0 * * * *"
+    # Runs every 12 hours, on the hour
+    - cron: "0 */12 * * *"
   workflow_dispatch:
 jobs:
   update-readme:

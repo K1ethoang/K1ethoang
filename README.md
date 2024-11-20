@@ -113,7 +113,7 @@ public class Main {
 <details>
 <summary><h2>👨‍💻 Competitive Programming Stats</h2></summary>
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/K1ethoang?theme=radical&font=Piazzolla&ext=heatmap)
+![LeetCode Stats](https://leetcard.jacoblin.cool/K1ethoang?theme=wtf&font=Piazzolla&ext=heatmap)
 
 <a target="_blank" href="https://codeforces.com/profile/K1ethoang">
 <img src="https://raw.githubusercontent.com/K1ethoang/cf-stats/main/output/light_card.svg#gh-dark-mode-only" />

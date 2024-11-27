@@ -128,9 +128,9 @@ public class Main {
 <summary><h2>⚡ Recent Activity</h2></summary>
 	
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#100](https://github.com/DevLeonardoCommunity/github-stats/issues/100#issuecomment-2495415697) in [DevLeonardoCommunity/github-stats](https://github.com/DevLeonardoCommunity/github-stats)
-2. 💪 Opened PR [#6](https://github.com/K1ethoang/BE_Learn-Vocabulary_KDP/pull/6) in [K1ethoang/BE_Learn-Vocabulary_KDP](https://github.com/K1ethoang/BE_Learn-Vocabulary_KDP)
-3. 🎉 Merged PR [#5](https://github.com/K1ethoang/BE_Learn-Vocabulary_KDP/pull/5) in [K1ethoang/BE_Learn-Vocabulary_KDP](https://github.com/K1ethoang/BE_Learn-Vocabulary_KDP)
+1. 🎉 Merged PR [#7](https://github.com/K1ethoang/BE_Learn-Vocabulary_KDP/pull/7) in [K1ethoang/BE_Learn-Vocabulary_KDP](https://github.com/K1ethoang/BE_Learn-Vocabulary_KDP)
+2. 💪 Opened PR [#7](https://github.com/K1ethoang/BE_Learn-Vocabulary_KDP/pull/7) in [K1ethoang/BE_Learn-Vocabulary_KDP](https://github.com/K1ethoang/BE_Learn-Vocabulary_KDP)
+3. 🗣 Commented on [#100](https://github.com/DevLeonardoCommunity/github-stats/issues/100#issuecomment-2495415697) in [DevLeonardoCommunity/github-stats](https://github.com/DevLeonardoCommunity/github-stats)
 4. 💪 Opened PR [#5](https://github.com/K1ethoang/BE_Learn-Vocabulary_KDP/pull/5) in [K1ethoang/BE_Learn-Vocabulary_KDP](https://github.com/K1ethoang/BE_Learn-Vocabulary_KDP)
 5. 🎉 Merged PR [#4](https://github.com/K1ethoang/BE_Learn-Vocabulary_KDP/pull/4) in [K1ethoang/BE_Learn-Vocabulary_KDP](https://github.com/K1ethoang/BE_Learn-Vocabulary_KDP)
 6. 💪 Opened PR [#4](https://github.com/K1ethoang/BE_Learn-Vocabulary_KDP/pull/4) in [K1ethoang/BE_Learn-Vocabulary_KDP](https://github.com/K1ethoang/BE_Learn-Vocabulary_KDP)

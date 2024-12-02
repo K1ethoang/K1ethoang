@@ -150,8 +150,6 @@ public class Main {
 
 > 📦 411.2 kB Used in GitHub's Storage 
  > 
-> 🏆 264 Contributions in the Year 2024
- > 
 > 💼 Opted to Hire
  > 
 > 📜 46 Public Repositories 
@@ -182,7 +180,7 @@ IntelliJ IDEA            1 hr 25 mins        ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀�
 ```
 
 
- Last Updated on 01/12/2024 22:08:25 UTC
+ Last Updated on 02/12/2024 00:42:03 UTC
 <!--END_SECTION:waka-->
 
 </details>

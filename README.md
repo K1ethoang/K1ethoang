@@ -148,7 +148,9 @@ public class Main {
 
 **🐱 My GitHub Data** 
 
-> 📦 411.3 kB Used in GitHub's Storage 
+> 📦 411.2 kB Used in GitHub's Storage 
+ > 
+> 🏆 264 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -180,7 +182,7 @@ IntelliJ IDEA            1 hr 25 mins        ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀�
 ```
 
 
- Last Updated on 03/12/2024 08:12:50 UTC
+ Last Updated on 03/12/2024 10:11:49 UTC
 <!--END_SECTION:waka-->
 
 </details>

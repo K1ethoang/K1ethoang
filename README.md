@@ -240,3 +240,6 @@ VS Code                  1 hr 55 mins        ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀�
 <!-- Snake -->
 |![github contribution grid snake animation](https://raw.githubusercontent.com/K1ethoang/K1ethoang/output/github-contribution-grid-snake.svg)|
 |:---:|
+
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/K1ethoang"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="K1ethoang" /></a></p><b

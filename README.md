@@ -230,7 +230,10 @@ VS Code                  1 hr 55 mins        ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀�
 <!-- codeforces -->
 <a target="_blank" href="https://codeforces.com/profile/k1ethoang">
  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="K1ethoang's codeforces" height="30" width="40"/></a>
- 
+
+ <!-- leetcode -->
+<a href="https://www.leetcode.com/k1ethoang" target="blank">
+ <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="k1ethoang" height="30" width="40" /></a>
 <br>
 <br>
 

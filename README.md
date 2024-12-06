@@ -110,7 +110,7 @@ public class Main {
 <a target="_blank" href="https://www.youtube.com/c/K1ethoang?sub_confirmation=1"><img src="https://custom-icon-badges.demolab.com/badge/-Subscribe-red?style=for-the-badge&logo=video&logoColor=white"/></a>
 </details>
 
-<details>
+<details open>
 <summary><h2>👨‍💻 Competitive Programming Stats</h2></summary>
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/K1ethoang?theme=dark&font=Piazzolla&ext=heatmap)
@@ -138,7 +138,7 @@ public class Main {
 
 </details>
 
-<details open>
+<details>
 <summary><h2>😻 Development Stats</h2></summary>
 	
 <!--START_SECTION:waka-->

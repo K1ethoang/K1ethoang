@@ -128,7 +128,7 @@ public class Main {
 <summary><h2>⚡ Recent Activity</h2></summary>
 	
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#7](https://github.com/K1ethoang/BE_Learn-Vocabulary_KDP/pull/7) in [K1ethoang/BE_Learn-Vocabulary_KDP](https://github.com/K1ethoang/BE_Learn-Vocabulary_KDP)
+1. ❗ Opened issue [#69](https://github.com/marcelkliemannel/intellij-developer-tools-plugin/issues/69) in [marcelkliemannel/intellij-developer-tools-plugin](https://github.com/marcelkliemannel/intellij-developer-tools-plugin)
 2. 💪 Opened PR [#7](https://github.com/K1ethoang/BE_Learn-Vocabulary_KDP/pull/7) in [K1ethoang/BE_Learn-Vocabulary_KDP](https://github.com/K1ethoang/BE_Learn-Vocabulary_KDP)
 3. 🗣 Commented on [#100](https://github.com/DevLeonardoCommunity/github-stats/issues/100#issuecomment-2495415697) in [DevLeonardoCommunity/github-stats](https://github.com/DevLeonardoCommunity/github-stats)
 4. 💪 Opened PR [#5](https://github.com/K1ethoang/BE_Learn-Vocabulary_KDP/pull/5) in [K1ethoang/BE_Learn-Vocabulary_KDP](https://github.com/K1ethoang/BE_Learn-Vocabulary_KDP)

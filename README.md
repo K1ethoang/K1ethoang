@@ -150,8 +150,6 @@ public class Main {
 
 > 📦 411.7 kB Used in GitHub's Storage 
  > 
-> 🏆 274 Contributions in the Year 2024
- > 
 > 💼 Opted to Hire
  > 
 > 📜 46 Public Repositories 
@@ -182,7 +180,7 @@ VS Code                  4 hrs 27 mins       ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀�
 ```
 
 
- Last Updated on 08/12/2024 20:09:56 UTC
+ Last Updated on 08/12/2024 22:08:13 UTC
 <!--END_SECTION:waka-->
 
 </details>

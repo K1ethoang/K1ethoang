@@ -5,7 +5,6 @@
 
 </div>
 
-<!-- View counter - https://github.com/DenverCoder1/Simple-View-Counter -->
 <p align="center">
   <a target="_blank" href="https://codeforces.com/profile/K1ethoang">
     <img alt="Codeforces profile" title="Codeforces profile" src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fcodeforces.com%2Fapi%2Fuser.info%3Fhandles%3DK1ethoang&query=%24.result%5B%3A1%5D.rating&style=for-the-badge&logo=codeforces&logoColor=ffffff&label=Codeforces%20rating&labelColor=4D5D69&color=2196F3"/></a>
@@ -40,6 +39,35 @@
 
 - 📫 How to reach me **kiethoang101.dev@gmail.com**
 
+## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px"> Connect with me
+<!-- gmail -->
+<a target="_blank" href="mailto:kiethoang101.dev@gmail.com">
+ <img align="center" src="https://raw.githubusercontent.com/SatYu26/SatYu26/master/Assets/Gmail.svg" alt="K1ethoang's gmail" height="30" width="40"/></a>
+
+<!-- linkedin -->
+<a target="_blank" href="https://linkedin.com/in/k1ethoang">
+ <img align="center" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" alt="K1ethoang's linkedin" height="30" width="40"/></a>
+
+<!-- facebook -->
+<a target="_blank" href="https://fb.com/K1ethoang">
+ <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="K1ethoang's facebook" height="30" width="40"/></a>
+ 
+<!-- instagram -->
+<a target="_blank" href="https://instagram.com/k1ethoang">
+ <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="K1ethoang's instagram" height="30" width="40"/></a>
+ 
+<!-- youtube -->
+<a target="_blank" href="https://www.youtube.com/K1ethoang">
+ <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="K1ethoang's youtube" height="30" width="40"/></a>
+
+<!-- codeforces -->
+<a target="_blank" href="https://codeforces.com/profile/k1ethoang">
+ <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="K1ethoang's codeforces" height="30" width="40"/></a>
+
+ <!-- leetcode -->
+<a href="https://www.leetcode.com/k1ethoang" target="blank">
+ <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="k1ethoang" height="30" width="40" /></a>
+<br>
 <br>
 <br>
 
@@ -52,17 +80,8 @@ public class Main {
 }
 ```
 
-<div align="center">
-
-**🌑 Today's Moon**
-
-[![Moon.svg](https://moon-svg.minung.dev/moon.svg?theme=ray&rotate=0)](https://moon-svg.minung.dev) [![Moon.svg](https://moon-svg.minung.dev/moon.svg?theme=basic&rotate=0)](https://moon-svg.minung.dev)
-
-</div>
-
-
-
-## 💻 Languages and Tools:
+<details>
+<summary><h2>💻 Languages and Tools</h2></summary>
 
 <div align="center">
 		<!-- Languages programming -->
@@ -93,9 +112,9 @@ public class Main {
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/192108376-c675d39b-90f6-4073-bde6-5a9291644657.png" alt="GitLab" title="GitLab"/></code>
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/186711335-a3729606-5a78-4496-9a36-06efcc74f800.png" alt="Swagger" title="Swagger"/></code>	
 </div>
+</details>
 
-
-<details open>
+<details>
   <summary><h2> 📺 Lastest YouTube Video </h2></summary>
 	
 <!-- BEGIN YOUTUBE-CARDS -->
@@ -110,7 +129,7 @@ public class Main {
 <a target="_blank" href="https://www.youtube.com/c/K1ethoang?sub_confirmation=1"><img src="https://custom-icon-badges.demolab.com/badge/-Subscribe-red?style=for-the-badge&logo=video&logoColor=white"/></a>
 </details>
 
-<details open>
+<details>
 <summary><h2>👨‍💻 Competitive Programming Stats</h2></summary>
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/K1ethoang?theme=dark&font=Piazzolla&ext=heatmap)
@@ -200,42 +219,6 @@ VS Code                  4 hrs 26 mins       ⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀�
     
 [![K1ethoang's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=K1ethoang&theme=xcode)](https://github.com/ashutosh00710/github-readme-activity-graph)
 </details>
-
-
-## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px"> Connect with me
-<!-- gmail -->
-<a target="_blank" href="mailto:kiethoang101.dev@gmail.com">
- <img align="center" src="https://raw.githubusercontent.com/SatYu26/SatYu26/master/Assets/Gmail.svg" alt="K1ethoang's gmail" height="30" width="40"/></a>
-
-<!-- linkedin -->
-<a target="_blank" href="https://linkedin.com/in/k1ethoang">
- <img align="center" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" alt="K1ethoang's linkedin" height="30" width="40"/></a>
-
-<!-- facebook -->
-<a target="_blank" href="https://fb.com/K1ethoang">
- <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="K1ethoang's facebook" height="30" width="40"/></a>
- 
-<!-- instagram -->
-<a target="_blank" href="https://instagram.com/k1ethoang">
- <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="K1ethoang's instagram" height="30" width="40"/></a>
- 
- <!-- github -->
-<a target="_blank" href="https://github.com/K1ethoang">
- <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="K1ethoang's github" height="30" width="40"/></a>
- 
-<!-- youtube -->
-<a target="_blank" href="https://www.youtube.com/K1ethoang">
- <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="K1ethoang's youtube" height="30" width="40"/></a>
-
-<!-- codeforces -->
-<a target="_blank" href="https://codeforces.com/profile/k1ethoang">
- <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="K1ethoang's codeforces" height="30" width="40"/></a>
-
- <!-- leetcode -->
-<a href="https://www.leetcode.com/k1ethoang" target="blank">
- <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="k1ethoang" height="30" width="40" /></a>
-<br>
-<br>
 
 <!-- Snake -->
 |![github contribution grid snake animation](https://raw.githubusercontent.com/K1ethoang/K1ethoang/output/github-contribution-grid-snake.svg)|

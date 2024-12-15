@@ -147,11 +147,11 @@ public class Main {
 <summary><h2>⚡ Recent Activity</h2></summary>
 	
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#8](https://github.com/K1ethoang/BE_Learn-Vocabulary_KDP/pull/8) in [K1ethoang/BE_Learn-Vocabulary_KDP](https://github.com/K1ethoang/BE_Learn-Vocabulary_KDP)
-2. 💪 Opened PR [#8](https://github.com/K1ethoang/BE_Learn-Vocabulary_KDP/pull/8) in [K1ethoang/BE_Learn-Vocabulary_KDP](https://github.com/K1ethoang/BE_Learn-Vocabulary_KDP)
-3. ❗ Opened issue [#69](https://github.com/marcelkliemannel/intellij-developer-tools-plugin/issues/69) in [marcelkliemannel/intellij-developer-tools-plugin](https://github.com/marcelkliemannel/intellij-developer-tools-plugin)
-4. 💪 Opened PR [#5](https://github.com/K1ethoang/BE_Learn-Vocabulary_KDP/pull/5) in [K1ethoang/BE_Learn-Vocabulary_KDP](https://github.com/K1ethoang/BE_Learn-Vocabulary_KDP)
-5. 🎉 Merged PR [#4](https://github.com/K1ethoang/BE_Learn-Vocabulary_KDP/pull/4) in [K1ethoang/BE_Learn-Vocabulary_KDP](https://github.com/K1ethoang/BE_Learn-Vocabulary_KDP)
+1. 🎉 Merged PR [#9](https://github.com/K1ethoang/BE_Learn-Vocabulary_KDP/pull/9) in [K1ethoang/BE_Learn-Vocabulary_KDP](https://github.com/K1ethoang/BE_Learn-Vocabulary_KDP)
+2. 💪 Opened PR [#9](https://github.com/K1ethoang/BE_Learn-Vocabulary_KDP/pull/9) in [K1ethoang/BE_Learn-Vocabulary_KDP](https://github.com/K1ethoang/BE_Learn-Vocabulary_KDP)
+3. 🎉 Merged PR [#8](https://github.com/K1ethoang/BE_Learn-Vocabulary_KDP/pull/8) in [K1ethoang/BE_Learn-Vocabulary_KDP](https://github.com/K1ethoang/BE_Learn-Vocabulary_KDP)
+4. 💪 Opened PR [#8](https://github.com/K1ethoang/BE_Learn-Vocabulary_KDP/pull/8) in [K1ethoang/BE_Learn-Vocabulary_KDP](https://github.com/K1ethoang/BE_Learn-Vocabulary_KDP)
+5. ❗ Opened issue [#69](https://github.com/marcelkliemannel/intellij-developer-tools-plugin/issues/69) in [marcelkliemannel/intellij-developer-tools-plugin](https://github.com/marcelkliemannel/intellij-developer-tools-plugin)
 6. 💪 Opened PR [#4](https://github.com/K1ethoang/BE_Learn-Vocabulary_KDP/pull/4) in [K1ethoang/BE_Learn-Vocabulary_KDP](https://github.com/K1ethoang/BE_Learn-Vocabulary_KDP)
 <!--END_SECTION:activity-->
 

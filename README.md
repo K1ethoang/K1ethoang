@@ -147,12 +147,12 @@ public class Main {
 <summary><h2>⚡ Recent Activity</h2></summary>
 	
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#33](https://github.com/K1ethoang/BE_Learn-Vocabulary_KDP/pull/33) in [K1ethoang/BE_Learn-Vocabulary_KDP](https://github.com/K1ethoang/BE_Learn-Vocabulary_KDP)
-2. 💪 Opened PR [#33](https://github.com/K1ethoang/BE_Learn-Vocabulary_KDP/pull/33) in [K1ethoang/BE_Learn-Vocabulary_KDP](https://github.com/K1ethoang/BE_Learn-Vocabulary_KDP)
-3. 🚀 Published release [Release V1.1.0](https://github.com/K1ethoang/My-Achievements/releases/tag/v1.1.0) in [K1ethoang/My-Achievements](https://github.com/K1ethoang/My-Achievements)
-4. 🎉 Merged PR [#32](https://github.com/K1ethoang/BE_Learn-Vocabulary_KDP/pull/32) in [K1ethoang/BE_Learn-Vocabulary_KDP](https://github.com/K1ethoang/BE_Learn-Vocabulary_KDP)
-5. 💪 Opened PR [#32](https://github.com/K1ethoang/BE_Learn-Vocabulary_KDP/pull/32) in [K1ethoang/BE_Learn-Vocabulary_KDP](https://github.com/K1ethoang/BE_Learn-Vocabulary_KDP)
-6. 🎉 Merged PR [#31](https://github.com/K1ethoang/BE_Learn-Vocabulary_KDP/pull/31) in [K1ethoang/BE_Learn-Vocabulary_KDP](https://github.com/K1ethoang/BE_Learn-Vocabulary_KDP)
+1. 🚀 Published release [v1.0.0](https://github.com/K1ethoang/BE_Learn-Vocabulary_KDP/releases/tag/v1.0.0) in [K1ethoang/BE_Learn-Vocabulary_KDP](https://github.com/K1ethoang/BE_Learn-Vocabulary_KDP)
+2. 🎉 Merged PR [#33](https://github.com/K1ethoang/BE_Learn-Vocabulary_KDP/pull/33) in [K1ethoang/BE_Learn-Vocabulary_KDP](https://github.com/K1ethoang/BE_Learn-Vocabulary_KDP)
+3. 💪 Opened PR [#33](https://github.com/K1ethoang/BE_Learn-Vocabulary_KDP/pull/33) in [K1ethoang/BE_Learn-Vocabulary_KDP](https://github.com/K1ethoang/BE_Learn-Vocabulary_KDP)
+4. 🚀 Published release [Release V1.1.0](https://github.com/K1ethoang/My-Achievements/releases/tag/v1.1.0) in [K1ethoang/My-Achievements](https://github.com/K1ethoang/My-Achievements)
+5. 🎉 Merged PR [#32](https://github.com/K1ethoang/BE_Learn-Vocabulary_KDP/pull/32) in [K1ethoang/BE_Learn-Vocabulary_KDP](https://github.com/K1ethoang/BE_Learn-Vocabulary_KDP)
+6. 💪 Opened PR [#32](https://github.com/K1ethoang/BE_Learn-Vocabulary_KDP/pull/32) in [K1ethoang/BE_Learn-Vocabulary_KDP](https://github.com/K1ethoang/BE_Learn-Vocabulary_KDP)
 <!--END_SECTION:activity-->
 
 </details>

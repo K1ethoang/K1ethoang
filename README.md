@@ -147,9 +147,9 @@ public class Main {
 <summary><h2>⚡ Recent Activity</h2></summary>
 	
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v1.2.0](https://github.com/K1ethoang/My-Achievements/releases/tag/v1.2.0) in [K1ethoang/My-Achievements](https://github.com/K1ethoang/My-Achievements)
-2. 🎉 Merged PR [#1](https://github.com/K1ethoang/FE_Learn-Vocabulary_KDP/pull/1) in [K1ethoang/FE_Learn-Vocabulary_KDP](https://github.com/K1ethoang/FE_Learn-Vocabulary_KDP)
-3. 🚀 Published release [v1.0.0](https://github.com/K1ethoang/BE_Learn-Vocabulary_KDP/releases/tag/v1.0.0) in [K1ethoang/BE_Learn-Vocabulary_KDP](https://github.com/K1ethoang/BE_Learn-Vocabulary_KDP)
+1. 🎉 Merged PR [#2](https://github.com/K1ethoang/FE_Learn-Vocabulary_KDP/pull/2) in [K1ethoang/FE_Learn-Vocabulary_KDP](https://github.com/K1ethoang/FE_Learn-Vocabulary_KDP)
+2. 🚀 Published release [v1.2.0](https://github.com/K1ethoang/My-Achievements/releases/tag/v1.2.0) in [K1ethoang/My-Achievements](https://github.com/K1ethoang/My-Achievements)
+3. 🎉 Merged PR [#1](https://github.com/K1ethoang/FE_Learn-Vocabulary_KDP/pull/1) in [K1ethoang/FE_Learn-Vocabulary_KDP](https://github.com/K1ethoang/FE_Learn-Vocabulary_KDP)
 4. 🎉 Merged PR [#33](https://github.com/K1ethoang/BE_Learn-Vocabulary_KDP/pull/33) in [K1ethoang/BE_Learn-Vocabulary_KDP](https://github.com/K1ethoang/BE_Learn-Vocabulary_KDP)
 5. 💪 Opened PR [#33](https://github.com/K1ethoang/BE_Learn-Vocabulary_KDP/pull/33) in [K1ethoang/BE_Learn-Vocabulary_KDP](https://github.com/K1ethoang/BE_Learn-Vocabulary_KDP)
 6. 🚀 Published release [Release V1.1.0](https://github.com/K1ethoang/My-Achievements/releases/tag/v1.1.0) in [K1ethoang/My-Achievements](https://github.com/K1ethoang/My-Achievements)

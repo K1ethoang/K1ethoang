@@ -168,13 +168,13 @@ public class Main {
 <summary><h2>😻 Development Stats</h2></summary>
 	
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C787%20hrs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C792%20hrs%2029%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-43.2%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 456.4 kB Used in GitHub's Storage 
+> 📦 456.5 kB Used in GitHub's Storage 
  > 
 > 🏆 118 Contributions in the Year 2025
  > 
@@ -203,12 +203,12 @@ Sunday                   314 commits         ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀�
 🕑︎ Time Zone: Asia/Ho_Chi_Minh
 
 🔥 Editors: 
-PyCharm                  15 hrs 35 mins      ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀   77.28 % 
-VS Code                  4 hrs 34 mins       ⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   22.72 % 
+PyCharm                  9 hrs 24 mins       ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   51.37 % 
+VS Code                  8 hrs 54 mins       ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   48.63 % 
 ```
 
 
- Last Updated on 08/04/2025 09:25:26 UTC
+ Last Updated on 09/04/2025 09:26:09 UTC
 <!--END_SECTION:waka-->
 
 </details>

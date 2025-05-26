@@ -29,11 +29,13 @@
 ## 💫 About Me
 <img src="/resource/gif/Developer.gif" align="right"/>
 
-- 😊 I’m currently learning **Backend** 
+- 😊 I’m a **Backend Developer** 
 
 - 🌱 I'm 4th-year student at **University of Transport and Communications campus in HCMC**
 
 - 👁️👁️ See 👉 **[My achievements](https://github.com/K1ethoang/My-Achievements)**
+
+- 🎓 University Projects 👉 **[University Projects of me](https://github.com/University-Projects-of-Kiet-Hoang-Gia)**
 
 - 🌏 I'm living now in **Dong Nai Province, Viet Nam**
 

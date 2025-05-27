@@ -178,8 +178,6 @@ public class Main {
 
 > 📦 456.5 kB Used in GitHub's Storage 
  > 
-> 🏆 140 Contributions in the Year 2025
- > 
 > 💼 Opted to Hire
  > 
 > 📜 51 Public Repositories 
@@ -205,11 +203,11 @@ Sunday                   326 commits         ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀�
 🕑︎ Time Zone: Asia/Ho_Chi_Minh
 
 🔥 Editors: 
-VS Code                  23 hrs 1 min        ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 % 
+VS Code                  19 hrs 24 mins      ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 % 
 ```
 
 
- Last Updated on 26/05/2025 09:50:32 UTC
+ Last Updated on 27/05/2025 09:25:44 UTC
 <!--END_SECTION:waka-->
 
 </details>

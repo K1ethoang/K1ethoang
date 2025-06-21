@@ -156,10 +156,10 @@ public class Main {
 <summary><h2>⚡ Recent Activity</h2></summary>
 	
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/K1ethoang/FE_Learn-Vocabulary_KDP/pull/2) in [K1ethoang/FE_Learn-Vocabulary_KDP](https://github.com/K1ethoang/FE_Learn-Vocabulary_KDP)
-2. 🚀 Published release [v1.2.0](https://github.com/K1ethoang/My-Achievements/releases/tag/v1.2.0) in [K1ethoang/My-Achievements](https://github.com/K1ethoang/My-Achievements)
-3. 🎉 Merged PR [#1](https://github.com/K1ethoang/FE_Learn-Vocabulary_KDP/pull/1) in [K1ethoang/FE_Learn-Vocabulary_KDP](https://github.com/K1ethoang/FE_Learn-Vocabulary_KDP)
-4. 🎉 Merged PR [#33](https://github.com/K1ethoang/BE_Learn-Vocabulary_KDP/pull/33) in [K1ethoang/BE_Learn-Vocabulary_KDP](https://github.com/K1ethoang/BE_Learn-Vocabulary_KDP)
+1. 🎉 Merged PR [#4](https://github.com/K1ethoang/Surveillance-Camera-System/pull/4) in [K1ethoang/Surveillance-Camera-System](https://github.com/K1ethoang/Surveillance-Camera-System)
+2. 💪 Opened PR [#4](https://github.com/K1ethoang/Surveillance-Camera-System/pull/4) in [K1ethoang/Surveillance-Camera-System](https://github.com/K1ethoang/Surveillance-Camera-System)
+3. 🎉 Merged PR [#3](https://github.com/K1ethoang/Surveillance-Camera-System/pull/3) in [K1ethoang/Surveillance-Camera-System](https://github.com/K1ethoang/Surveillance-Camera-System)
+4. 💪 Opened PR [#3](https://github.com/K1ethoang/Surveillance-Camera-System/pull/3) in [K1ethoang/Surveillance-Camera-System](https://github.com/K1ethoang/Surveillance-Camera-System)
 5. 💪 Opened PR [#33](https://github.com/K1ethoang/BE_Learn-Vocabulary_KDP/pull/33) in [K1ethoang/BE_Learn-Vocabulary_KDP](https://github.com/K1ethoang/BE_Learn-Vocabulary_KDP)
 6. 🚀 Published release [Release V1.1.0](https://github.com/K1ethoang/My-Achievements/releases/tag/v1.1.0) in [K1ethoang/My-Achievements](https://github.com/K1ethoang/My-Achievements)
 <!--END_SECTION:activity-->

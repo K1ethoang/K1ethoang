@@ -168,7 +168,7 @@ public class Main {
 <summary><h2>😻 Development Stats</h2></summary>
 	
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C573%20hrs%2017%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C573%20hrs%2022%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-59.2%20million%20lines%20of%20code-blue)
 
@@ -203,12 +203,12 @@ Sunday                   339 commits         ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀�
 🕑︎ Time Zone: Asia/Ho_Chi_Minh
 
 🔥 Editors: 
-PyCharm                  4 hrs 35 mins       ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   53.42 % 
-VS Code                  4 hrs               ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   46.58 % 
+PyCharm                  4 hrs 21 mins       ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   55.34 % 
+VS Code                  3 hrs 31 mins       ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   44.66 % 
 ```
 
 
- Last Updated on 12/11/2025 09:27:39 UTC
+ Last Updated on 13/11/2025 09:28:08 UTC
 <!--END_SECTION:waka-->
 
 </details>

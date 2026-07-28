@@ -168,7 +168,9 @@ public class Main {
 <summary><h2>😻 Development Stats</h2></summary>
 	
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C777%20hrs%205%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C755%20hrs%2036%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-111%20hrs%202%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-43.53%20million%20lines%20of%20code-blue?style=flat)
 
@@ -206,8 +208,14 @@ Sunday                   331 commits         ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀�
 No Activity Tracked This Week
 ```
 
+🤖 **AI Coding This Week** 
 
- Last Updated on 27/07/2026 12:28:48 UTC
+```text
+No AI Coding Activity Tracked This Week
+```
+
+
+ Last Updated on 28/07/2026 11:23:18 UTC
 <!--END_SECTION:waka-->
 
 </details>

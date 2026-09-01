@@ -154,12 +154,12 @@ public class Main {
 <summary><h2>⚡ Recent Activity</h2></summary>
 	
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#7](https://github.com/K1ethoang/FE_Learn-Vocabulary_KDP/pull/7) in [K1ethoang/FE_Learn-Vocabulary_KDP](https://github.com/K1ethoang/FE_Learn-Vocabulary_KDP)
-2. 🎉 Merged PR [#5](https://github.com/K1ethoang/FE_Learn-Vocabulary_KDP/pull/5) in [K1ethoang/FE_Learn-Vocabulary_KDP](https://github.com/K1ethoang/FE_Learn-Vocabulary_KDP)
-3. 🎉 Merged PR [#4](https://github.com/K1ethoang/FE_Learn-Vocabulary_KDP/pull/4) in [K1ethoang/FE_Learn-Vocabulary_KDP](https://github.com/K1ethoang/FE_Learn-Vocabulary_KDP)
-4. 🎉 Merged PR [#3](https://github.com/K1ethoang/FE_Learn-Vocabulary_KDP/pull/3) in [K1ethoang/FE_Learn-Vocabulary_KDP](https://github.com/K1ethoang/FE_Learn-Vocabulary_KDP)
-5. 💪 Opened PR [#33](https://github.com/K1ethoang/BE_Learn-Vocabulary_KDP/pull/33) in [K1ethoang/BE_Learn-Vocabulary_KDP](https://github.com/K1ethoang/BE_Learn-Vocabulary_KDP)
-6. 🚀 Published release [Release V1.1.0](https://github.com/K1ethoang/My-Achievements/releases/tag/v1.1.0) in [K1ethoang/My-Achievements](https://github.com/K1ethoang/My-Achievements)
+1. 🎉 Merged PR [#5](https://github.com/K1ethoang/Surveillance-Camera-System/pull/5) in [K1ethoang/Surveillance-Camera-System](https://github.com/K1ethoang/Surveillance-Camera-System)
+2. 🎉 Merged PR [#1](https://github.com/K1ethoang/My-Achievements/pull/1) in [K1ethoang/My-Achievements](https://github.com/K1ethoang/My-Achievements)
+3. 💪 Opened PR [#1](https://github.com/K1ethoang/My-Achievements/pull/1) in [K1ethoang/My-Achievements](https://github.com/K1ethoang/My-Achievements)
+4. 💪 Opened PR [#5](https://github.com/K1ethoang/Surveillance-Camera-System/pull/5) in [K1ethoang/Surveillance-Camera-System](https://github.com/K1ethoang/Surveillance-Camera-System)
+5. 🎉 Merged PR [#4](https://github.com/K1ethoang/Uni_ThucTapTotNghiep-2025/pull/4) in [K1ethoang/Uni_ThucTapTotNghiep-2025](https://github.com/K1ethoang/Uni_ThucTapTotNghiep-2025)
+6. 💪 Opened PR [#4](https://github.com/K1ethoang/Uni_ThucTapTotNghiep-2025/pull/4) in [K1ethoang/Uni_ThucTapTotNghiep-2025](https://github.com/K1ethoang/Uni_ThucTapTotNghiep-2025)
 <!--END_SECTION:activity-->
 
 </details>

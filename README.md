@@ -205,37 +205,37 @@ Sunday                   331 commits         ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀�
 🕑︎ Time Zone: Asia/Ho_Chi_Minh
 
 🔥 Editors: 
-Claude Code              22 hrs 59 mins      ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀   94.68 % 
-VS Code                  1 hr 17 mins        ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   05.32 % 
+Claude Code              19 hrs 27 mins      ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀   93.77 % 
+VS Code                  1 hr 17 mins        ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   06.23 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 24 hrs 2 mins (98.99%)
+⏱ AI Coding Time: 20 hrs 30 mins (98.82%)
 
-✍️ 11,427 lines written by AI, 23 lines written by hand (99.8% AI-written)
+✍️ 11,092 lines written by AI, 23 lines written by hand (99.79% AI-written)
 
-🔤 11,744,319 Input Tokens, 1,327,139 Output Tokens
+🔤 10,555,290 Input Tokens, 1,115,444 Output Tokens
 
-💵 $162.29 Estimated AI Cost This Week
+💵 $140.59 Estimated AI Cost This Week
 
-🧠 30 AI Sessions, 320 AI Prompts
+🧠 26 AI Sessions, 268 AI Prompts
 
-Sonnet                   9,899 lines         ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀   80.26 % 
-Haiku                    2,434 lines         ⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   19.74 % 
+Sonnet                   9,462 lines         ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀   79.54 % 
+Haiku                    2,434 lines         ⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   20.46 % 
 Opus                     0 lines             ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.00 % 
 Claude-Code              0 lines             ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.8% of written lines came from AI
-📄 Detailed Prompter — average 1,361 characters per prompt
-🔁 Iterative Prompter — average 11 prompts per session
-🚀 High AI Trust — 0.32% of changed lines were hand-edited
+🤖 AI-Driven — 99.79% of written lines came from AI
+📄 Detailed Prompter — average 1,356 characters per prompt
+🔁 Iterative Prompter — average 10 prompts per session
+🚀 High AI Trust — 0.33% of changed lines were hand-edited
 ```
 
 
- Last Updated on 12/09/2026 12:45:59 UTC
+ Last Updated on 13/09/2026 13:45:16 UTC
 <!--END_SECTION:waka-->
 
 </details>

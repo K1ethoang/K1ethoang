@@ -29,13 +29,13 @@
 ## 💫 About Me
 <img src="/resource/gif/Developer.gif" align="right"/>
 
-- 😊 I’m a **Backend Developer** 
+- 😊 I’m a **Backend Engineer** 
 
 - 👁️👁️ See 👉 **[My achievements](https://github.com/K1ethoang/My-Achievements)**
 
 - 🎓 University Projects 👉 **[University Projects of me](https://github.com/University-Projects-of-Kiet-Hoang-Gia)**
 
-- 🌏 I'm living now in **Dong Nai Province, Viet Nam**
+- 🌏 I'm living now in **Ho Chi Minh City, Viet Nam**
 
 - 📫 How to reach me **kiethoang101.dev@gmail.com**
 

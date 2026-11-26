@@ -6,9 +6,9 @@
 
 <p align="center">
   <a target="_blank" href="https://kiethoang.com">
-    <img alt="Portfolio" title="Portfolio" src="https://img.shields.io/badge/Portfolio-kiethoang.com-36BCF7?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=4D5D69"/></a>
+    <img alt="Portfolio" title="Portfolio" src="https://custom-icon-badges.demolab.com/badge/Portfolio-kiethoang.com-36BCF7?style=for-the-badge&logo=globe&logoColor=white&labelColor=4D5D69"/></a>
   <a target="_blank" href="https://codeforces.com/profile/K1ethoang">
-    <img alt="Codeforces rating" title="Codeforces profile" src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fcodeforces.com%2Fapi%2Fuser.info%3Fhandles%3DK1ethoang&query=%24.result%5B%3A1%5D.rating&style=for-the-badge&logo=codeforces&logoColor=ffffff&label=Codeforces&labelColor=4D5D69&color=2196F3"/></a>
+    <img alt="Codeforces rating" title="Codeforces profile" src="https://custom-icon-badges.demolab.com/badge/dynamic/json?url=https%3A%2F%2Fcodeforces.com%2Fapi%2Fuser.info%3Fhandles%3DK1ethoang&query=%24.result%5B%3A1%5D.rating&style=for-the-badge&logo=codeforces&logoColor=ffffff&label=Codeforces&labelColor=4D5D69&color=2196F3"/></a>
   <a target="_blank" href="https://github.com/K1ethoang?tab=repositories&sort=stargazers">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/k1ethoang?color=55960c&style=for-the-badge&labelColor=4D5D69&logo=star"/></a>
   <a target="_blank" href="https://github.com/K1ethoang?tab=followers">

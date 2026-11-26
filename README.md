@@ -6,15 +6,13 @@
 
 <p align="center">
   <a target="_blank" href="https://kiethoang.com">
-    <img alt="Portfolio" title="Portfolio" src="https://img.shields.io/badge/Portfolio-kiethoang.com-36BCF7?style=flat-square&logo=googlechrome&logoColor=white"/></a>
+    <img alt="Portfolio" title="Portfolio" src="https://img.shields.io/badge/Portfolio-kiethoang.com-36BCF7?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=4D5D69"/></a>
   <a target="_blank" href="https://codeforces.com/profile/K1ethoang">
-    <img alt="Codeforces rating" title="Codeforces profile" src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fcodeforces.com%2Fapi%2Fuser.info%3Fhandles%3DK1ethoang&query=%24.result%5B%3A1%5D.rating&style=flat-square&logo=codeforces&logoColor=ffffff&label=Codeforces%20rating&labelColor=4D5D69&color=2196F3"/></a>
+    <img alt="Codeforces rating" title="Codeforces profile" src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fcodeforces.com%2Fapi%2Fuser.info%3Fhandles%3DK1ethoang&query=%24.result%5B%3A1%5D.rating&style=for-the-badge&logo=codeforces&logoColor=ffffff&label=Codeforces&labelColor=4D5D69&color=2196F3"/></a>
   <a target="_blank" href="https://github.com/K1ethoang?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/k1ethoang?color=55960c&style=flat-square&labelColor=488207&logo=star"/></a>
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/k1ethoang?color=55960c&style=for-the-badge&labelColor=4D5D69&logo=star"/></a>
   <a target="_blank" href="https://github.com/K1ethoang?tab=followers">
-    <img alt="followers" title="Follow me on GitHub" src="https://custom-icon-badges.demolab.com/github/followers/k1ethoang?color=236ad3&labelColor=1155ba&style=flat-square&logo=person-add&label=Follow&logoColor=white"/></a>
-  <a target="_blank" href="https://github.com/K1ethoang">
-    <img alt="views" title="GitHub profile views" src="https://komarev.com/ghpvc/?username=k1ethoang&color=7C007C&labelColor=640464&style=flat-square&label=Visitors&base=1000"/></a>
+    <img alt="followers" title="Follow me on GitHub" src="https://custom-icon-badges.demolab.com/github/followers/k1ethoang?color=236ad3&labelColor=4D5D69&style=for-the-badge&logo=person-add&label=Followers&logoColor=white"/></a>
 </p>
 
 ## 💫 About Me
@@ -67,26 +65,13 @@ public class Main {
 
 ## 💻 Tech Stack
 
-<div align="center">
-
-**Languages**<br>
-<img src="https://skillicons.dev/icons?i=py,java,cpp,js&theme=dark" alt="Languages"/>
-
-**Backend**<br>
-<img src="https://skillicons.dev/icons?i=django,spring&theme=dark" alt="Backend"/>
-
-**Messaging**<br>
-<img src="https://skillicons.dev/icons?i=kafka,rabbitmq&theme=dark" alt="Messaging"/>
-
-**Data & Search**<br>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,redis&theme=dark" alt="Data and search"/>
-
-**Infra & Tools**<br>
-<img src="https://skillicons.dev/icons?i=linux,docker,git,postman&theme=dark" alt="Infra and tools"/>
-
-<sub>Also working with: Django REST Framework · MQTT · Debezium · OpenSearch · pytest · Swagger</sub>
-
-</div>
+| Category | Technologies |
+|:--|:--|
+| **Languages** | <img height="18" align="absmiddle" src="https://cdn.simpleicons.org/python" alt="Python"/>&nbsp;Python&nbsp;&nbsp;&nbsp;&nbsp;<img height="18" align="absmiddle" src="https://cdn.simpleicons.org/openjdk" alt="Java"/>&nbsp;Java&nbsp;&nbsp;&nbsp;&nbsp;<img height="18" align="absmiddle" src="https://cdn.simpleicons.org/cplusplus" alt="C++"/>&nbsp;C++&nbsp;&nbsp;&nbsp;&nbsp;<img height="18" align="absmiddle" src="https://cdn.simpleicons.org/javascript" alt="JavaScript"/>&nbsp;JavaScript |
+| **Backend &amp; APIs** | <img height="18" align="absmiddle" src="https://cdn.simpleicons.org/django" alt="Django"/>&nbsp;Django&nbsp;&nbsp;&nbsp;&nbsp;<img height="18" align="absmiddle" src="https://cdn.simpleicons.org/django" alt="Django REST Framework"/>&nbsp;Django REST Framework&nbsp;&nbsp;&nbsp;&nbsp;<img height="18" align="absmiddle" src="https://cdn.simpleicons.org/springboot" alt="Spring Boot"/>&nbsp;Spring Boot&nbsp;&nbsp;&nbsp;&nbsp;<img height="18" align="absmiddle" src="https://cdn.simpleicons.org/pytest" alt="pytest"/>&nbsp;pytest&nbsp;&nbsp;&nbsp;&nbsp;<img height="18" align="absmiddle" src="https://cdn.simpleicons.org/swagger" alt="Swagger"/>&nbsp;Swagger |
+| **Messaging &amp; Streaming** | <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/apachekafka/ffffff"><img height="18" align="absmiddle" src="https://cdn.simpleicons.org/apachekafka" alt="Kafka"/></picture>&nbsp;Apache Kafka&nbsp;&nbsp;&nbsp;&nbsp;<img height="18" align="absmiddle" src="https://cdn.simpleicons.org/rabbitmq" alt="RabbitMQ"/>&nbsp;RabbitMQ&nbsp;&nbsp;&nbsp;&nbsp;<img height="18" align="absmiddle" src="https://cdn.simpleicons.org/mqtt" alt="MQTT"/>&nbsp;MQTT&nbsp;&nbsp;&nbsp;&nbsp;<img height="18" align="absmiddle" src="https://cdn.simpleicons.org/redhat" alt="Debezium (CDC)"/>&nbsp;Debezium (CDC) |
+| **Data &amp; Search** | <img height="18" align="absmiddle" src="https://cdn.simpleicons.org/mysql" alt="MySQL"/>&nbsp;MySQL&nbsp;&nbsp;&nbsp;&nbsp;<img height="18" align="absmiddle" src="https://cdn.simpleicons.org/mongodb" alt="MongoDB"/>&nbsp;MongoDB&nbsp;&nbsp;&nbsp;&nbsp;<img height="18" align="absmiddle" src="https://cdn.simpleicons.org/postgresql" alt="PostgreSQL"/>&nbsp;PostgreSQL&nbsp;&nbsp;&nbsp;&nbsp;<img height="18" align="absmiddle" src="https://cdn.simpleicons.org/redis" alt="Redis"/>&nbsp;Redis&nbsp;&nbsp;&nbsp;&nbsp;<img height="18" align="absmiddle" src="https://cdn.simpleicons.org/opensearch" alt="OpenSearch"/>&nbsp;OpenSearch |
+| **Infra &amp; Tools** | <img height="18" align="absmiddle" src="https://cdn.simpleicons.org/linux" alt="Linux"/>&nbsp;Linux&nbsp;&nbsp;&nbsp;&nbsp;<img height="18" align="absmiddle" src="https://cdn.simpleicons.org/docker" alt="Docker"/>&nbsp;Docker&nbsp;&nbsp;&nbsp;&nbsp;<img height="18" align="absmiddle" src="https://cdn.simpleicons.org/git" alt="Git"/>&nbsp;Git&nbsp;&nbsp;&nbsp;&nbsp;<img height="18" align="absmiddle" src="https://cdn.simpleicons.org/postman" alt="Postman"/>&nbsp;Postman |
 
 ## 📊 GitHub Stats
 

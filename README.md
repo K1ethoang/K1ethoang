@@ -123,12 +123,12 @@ public class Main {
 <summary><h2>⚡ Recent Activity</h2></summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#5](https://github.com/K1ethoang/Surveillance-Camera-System/pull/5) in [K1ethoang/Surveillance-Camera-System](https://github.com/K1ethoang/Surveillance-Camera-System)
-2. 🎉 Merged PR [#1](https://github.com/K1ethoang/My-Achievements/pull/1) in [K1ethoang/My-Achievements](https://github.com/K1ethoang/My-Achievements)
-3. 💪 Opened PR [#1](https://github.com/K1ethoang/My-Achievements/pull/1) in [K1ethoang/My-Achievements](https://github.com/K1ethoang/My-Achievements)
-4. 💪 Opened PR [#5](https://github.com/K1ethoang/Surveillance-Camera-System/pull/5) in [K1ethoang/Surveillance-Camera-System](https://github.com/K1ethoang/Surveillance-Camera-System)
-5. 🎉 Merged PR [#4](https://github.com/K1ethoang/Uni_ThucTapTotNghiep-2025/pull/4) in [K1ethoang/Uni_ThucTapTotNghiep-2025](https://github.com/K1ethoang/Uni_ThucTapTotNghiep-2025)
-6. 💪 Opened PR [#4](https://github.com/K1ethoang/Uni_ThucTapTotNghiep-2025/pull/4) in [K1ethoang/Uni_ThucTapTotNghiep-2025](https://github.com/K1ethoang/Uni_ThucTapTotNghiep-2025)
+1. 🎉 Merged PR [#4](https://github.com/K1ethoang/K1ethoang/pull/4) in [K1ethoang/K1ethoang](https://github.com/K1ethoang/K1ethoang)
+2. 💪 Opened PR [#4](https://github.com/K1ethoang/K1ethoang/pull/4) in [K1ethoang/K1ethoang](https://github.com/K1ethoang/K1ethoang)
+3. 🎉 Merged PR [#3](https://github.com/K1ethoang/K1ethoang/pull/3) in [K1ethoang/K1ethoang](https://github.com/K1ethoang/K1ethoang)
+4. 💪 Opened PR [#3](https://github.com/K1ethoang/K1ethoang/pull/3) in [K1ethoang/K1ethoang](https://github.com/K1ethoang/K1ethoang)
+5. 🎉 Merged PR [#2](https://github.com/K1ethoang/K1ethoang/pull/2) in [K1ethoang/K1ethoang](https://github.com/K1ethoang/K1ethoang)
+6. 💪 Opened PR [#2](https://github.com/K1ethoang/K1ethoang/pull/2) in [K1ethoang/K1ethoang](https://github.com/K1ethoang/K1ethoang)
 <!--END_SECTION:activity-->
 
 </details>

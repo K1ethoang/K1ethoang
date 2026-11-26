@@ -67,13 +67,26 @@ public class Main {
 
 ## 💻 Tech Stack
 
-| Category | Technologies |
-|:--|:--|
-| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
-| **Backend** | ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white) ![DRF](https://img.shields.io/badge/DRF-A30000?style=flat-square&logo=django&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white) ![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white) |
-| **Messaging** | ![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white) ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white) ![MQTT](https://img.shields.io/badge/MQTT-660066?style=flat-square&logo=mqtt&logoColor=white) ![Debezium](https://img.shields.io/badge/Debezium-FF6B6B?style=flat-square) |
-| **Data & Search** | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white) ![OpenSearch](https://img.shields.io/badge/OpenSearch-005EB8?style=flat-square&logo=opensearch&logoColor=white) |
-| **Infra & Tools** | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black) |
+<div align="center">
+
+**Languages**<br>
+<img src="https://skillicons.dev/icons?i=py,java,cpp,js&theme=dark" alt="Languages"/>
+
+**Backend**<br>
+<img src="https://skillicons.dev/icons?i=django,spring&theme=dark" alt="Backend"/>
+
+**Messaging**<br>
+<img src="https://skillicons.dev/icons?i=kafka,rabbitmq&theme=dark" alt="Messaging"/>
+
+**Data & Search**<br>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,redis&theme=dark" alt="Data and search"/>
+
+**Infra & Tools**<br>
+<img src="https://skillicons.dev/icons?i=linux,docker,git,postman&theme=dark" alt="Infra and tools"/>
+
+<sub>Also working with: Django REST Framework · MQTT · Debezium · OpenSearch · pytest · Swagger</sub>
+
+</div>
 
 ## 📊 GitHub Stats
 

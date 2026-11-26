@@ -1,20 +1,20 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&color=%2336BCF7&size=30&duration=1600&lines=Hi+there%2C+I'm+Kiet!;Backend+Software+Engineer;Event-driven+systems;Kafka+%C2%B7+Django+%C2%B7+Spring+Boot">
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&color=%2336BCF7&size=30&duration=1600&lines=Hi+there%2C+I%27m+Kiet!;Backend+Software+Engineer;Event-driven+systems;Kafka+%C2%B7+Django+%C2%B7+Spring+Boot">
 
 </div>
 
 <p align="center">
   <a target="_blank" href="https://kiethoang.com">
-    <img alt="Portfolio" title="Portfolio" src="https://img.shields.io/badge/Portfolio-kiethoang.com-36BCF7?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
+    <img alt="Portfolio" title="Portfolio" src="https://img.shields.io/badge/Portfolio-kiethoang.com-36BCF7?style=flat-square&logo=googlechrome&logoColor=white"/></a>
   <a target="_blank" href="https://codeforces.com/profile/K1ethoang">
-    <img alt="Codeforces rating" title="Codeforces profile" src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fcodeforces.com%2Fapi%2Fuser.info%3Fhandles%3DK1ethoang&query=%24.result%5B%3A1%5D.rating&style=for-the-badge&logo=codeforces&logoColor=ffffff&label=Codeforces%20rating&labelColor=4D5D69&color=2196F3"/></a>
+    <img alt="Codeforces rating" title="Codeforces profile" src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fcodeforces.com%2Fapi%2Fuser.info%3Fhandles%3DK1ethoang&query=%24.result%5B%3A1%5D.rating&style=flat-square&logo=codeforces&logoColor=ffffff&label=Codeforces%20rating&labelColor=4D5D69&color=2196F3"/></a>
   <a target="_blank" href="https://github.com/K1ethoang?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/k1ethoang?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/k1ethoang?color=55960c&style=flat-square&labelColor=488207&logo=star"/></a>
   <a target="_blank" href="https://github.com/K1ethoang?tab=followers">
-    <img alt="followers" title="Follow me on GitHub" src="https://custom-icon-badges.demolab.com/github/followers/k1ethoang?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+    <img alt="followers" title="Follow me on GitHub" src="https://custom-icon-badges.demolab.com/github/followers/k1ethoang?color=236ad3&labelColor=1155ba&style=flat-square&logo=person-add&label=Follow&logoColor=white"/></a>
   <a target="_blank" href="https://github.com/K1ethoang">
-    <img alt="views" title="GitHub profile views" src="https://komarev.com/ghpvc/?username=k1ethoang&color=7C007C&labelColor=640464&style=for-the-badge&label=Visitors&base=1000"/></a>
+    <img alt="views" title="GitHub profile views" src="https://komarev.com/ghpvc/?username=k1ethoang&color=7C007C&labelColor=640464&style=flat-square&label=Visitors&base=1000"/></a>
 </p>
 
 ## 💫 About Me
@@ -67,7 +67,7 @@ public class Main {
 
 ## 💻 Tech Stack
 
-| | |
+| Category | Technologies |
 |:--|:--|
 | **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
 | **Backend** | ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white) ![DRF](https://img.shields.io/badge/DRF-A30000?style=flat-square&logo=django&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white) ![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white) |
